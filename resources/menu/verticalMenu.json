@@ -1,0 +1,16 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Home",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-home"
+    },
+    {
+      "url": "users",
+      "icon": "menu-icon tf-icons ti ti-user",
+      "name": "Manage Users",
+      "slug": "user-management"
+    }
+  ]
+}
