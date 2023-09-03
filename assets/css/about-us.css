@@ -1904,10 +1904,7 @@ body {
 @font-face {
     font-family: 'Beausite Classic';
     src: url('../fonts/BeausiteClassic-Bold.eot');
-    src: url('../fonts/BeausiteClassic-Bold.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/BeausiteClassic-Bold.woff2') format('woff2'),
-        url('../fonts/BeausiteClassic-Bold.woff') format('woff'),
-        url('../fonts/BeausiteClassic-Bold.ttf') format('truetype');
+    src: url('../fonts/BeausiteClassic-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/BeausiteClassic-Bold.woff2') format('woff2'), url('../fonts/BeausiteClassic-Bold.woff') format('woff'), url('../fonts/BeausiteClassic-Bold.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
     font-display: swap
@@ -1916,10 +1913,7 @@ body {
 @font-face {
     font-family: 'Beausite Classic';
     src: url('../fonts/BeausiteClassic-Regular.eot');
-    src: url('../fonts/BeausiteClassic-Regular.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/BeausiteClassic-Regular.woff2') format('woff2'),
-        url('../fonts/BeausiteClassic-Regular.woff') format('woff'),
-        url('../fonts/BeausiteClassic-Regular.ttf') format('truetype');
+    src: url('../fonts/BeausiteClassic-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/BeausiteClassic-Regular.woff2') format('woff2'), url('../fonts/BeausiteClassic-Regular.woff') format('woff'), url('../fonts/BeausiteClassic-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -1928,10 +1922,7 @@ body {
 @font-face {
     font-family: 'Beausite Classic';
     src: url('../fonts/BeausiteClassic-Semibold.eot');
-    src: url('../fonts/BeausiteClassic-Semibold.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/BeausiteClassic-Semibold.woff2') format('woff2'),
-        url('../fonts/BeausiteClassic-Semibold.woff') format('woff'),
-        url('../fonts/BeausiteClassic-Semibold.ttf') format('truetype');
+    src: url('../fonts/BeausiteClassic-Semibold.eot?#iefix') format('embedded-opentype'), url('../fonts/BeausiteClassic-Semibold.woff2') format('woff2'), url('../fonts/BeausiteClassic-Semibold.woff') format('woff'), url('../fonts/BeausiteClassic-Semibold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
     font-display: swap
