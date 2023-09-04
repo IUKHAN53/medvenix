@@ -22,6 +22,20 @@ document.addEventListener('DOMContentLoaded', function (e) {
               }
             }
           },
+          name: {
+            validators: {
+              notEmpty: {
+                message: 'Please enter name'
+              },
+            }
+          },
+          password_confirmation: {
+            validators: {
+              notEmpty: {
+                message: 'Please enter password confirmation'
+              },
+            }
+          },
           email: {
             validators: {
               notEmpty: {
