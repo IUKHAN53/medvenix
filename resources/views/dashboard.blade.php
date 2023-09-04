@@ -115,7 +115,7 @@
   <script src="{{asset('assets/js/charts-apex.js')}}"></script>
   <script>
     (function () {
-      let cardColor, headingColor, labelColor, borderColor, legendColor;
+      let labelColor, borderColor, legendColor;
 
       if (isDarkStyle) {
         labelColor = config.colors_dark.textMuted;
