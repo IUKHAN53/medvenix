@@ -15,19 +15,7 @@ class UserManagement extends Controller
    */
   public function UserManagement()
   {
-    $users = User::all();
-    $userCount = $users->count();
-    $verified = User::whereNotNull('email_verified_at')->get()->count();
-    $notVerified = User::whereNull('email_verified_at')->get()->count();
-    $usersUnique = $users->unique(['email']);
-    $userDuplicates = $users->diff($usersUnique)->count();
-
-    return view('users.user-management', [
-      'totalUser' => $userCount,
-      'verified' => $verified,
-      'notVerified' => $notVerified,
-      'userDuplicates' => $userDuplicates,
-    ]);
+    return view('users.user-management');
   }
 
   public function index(Request $request)
