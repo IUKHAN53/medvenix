@@ -1,60 +1,129 @@
-<x-guest-layout>
-    <x-authentication-card>
-        <x-slot name="logo">
-            <x-authentication-card-logo />
-        </x-slot>
+@php
+  $customizerHidden = 'customizer-hide';
+@endphp
 
-        <x-validation-errors class="mb-4" />
+@extends('layouts/layoutMaster')
 
-        <form method="POST" action="{{ route('register') }}">
-            @csrf
+@section('title', 'Register')
 
-            <div>
-                <x-label for="name" value="{{ __('Name') }}" />
-                <x-input id="name" class="block mt-1 w-full" type="text" name="name" :value="old('name')" required autofocus autocomplete="name" />
+@section('vendor-style')
+  <link rel="stylesheet" href="{{asset('assets/vendor/libs/@form-validation/umd/styles/index.min.css')}}"/>
+@endsection
+
+@section('page-style')
+  <link rel="stylesheet" href="{{asset('assets/vendor/css/pages/page-auth.css')}}">
+@endsection
+
+@section('vendor-script')
+  <script src="{{asset('assets/vendor/libs/@form-validation/umd/bundle/popular.min.js')}}"></script>
+  <script src="{{asset('assets/vendor/libs/@form-validation/umd/plugin-bootstrap5/index.min.js')}}"></script>
+  <script src="{{asset('assets/vendor/libs/@form-validation/umd/plugin-auto-focus/index.min.js')}}"></script>
+@endsection
+
+@section('page-script')
+  <script src="{{asset('assets/js/pages-auth.js')}}"></script>
+@endsection
+
+@section('content')
+  <div class="container-xxl">
+    <div class="authentication-wrapper authentication-basic container-p-y">
+      <div class="authentication-inner py-4">
+
+        <div class="card">
+          <div class="card-body">
+            <div class="app-brand justify-content-center mb-4 mt-2">
+              <a href="{{url('/')}}" class="app-brand-link gap-2">
+                <span
+                  class="app-brand-logo demo">@include('_partials.macros',["height"=>20,"withbg"=>'fill: #fff;'])</span>
+                <span class="app-brand-text demo text-body fw-bold ms-1">{{config('variables.templateName')}}</span>
+              </a>
             </div>
+            <!-- /Logo -->
+            <h4 class="mb-1 pt-2">Adventure starts here 🚀</h4>
+            <p class="mb-4">Register using email!</p>
 
-            <div class="mt-4">
-                <x-label for="email" value="{{ __('Email') }}" />
-                <x-input id="email" class="block mt-1 w-full" type="email" name="email" :value="old('email')" required autocomplete="username" />
-            </div>
-
-            <div class="mt-4">
-                <x-label for="password" value="{{ __('Password') }}" />
-                <x-input id="password" class="block mt-1 w-full" type="password" name="password" required autocomplete="new-password" />
-            </div>
-
-            <div class="mt-4">
-                <x-label for="password_confirmation" value="{{ __('Confirm Password') }}" />
-                <x-input id="password_confirmation" class="block mt-1 w-full" type="password" name="password_confirmation" required autocomplete="new-password" />
-            </div>
-
-            @if (Laravel\Jetstream\Jetstream::hasTermsAndPrivacyPolicyFeature())
-                <div class="mt-4">
-                    <x-label for="terms">
-                        <div class="flex items-center">
-                            <x-checkbox name="terms" id="terms" required />
-
-                            <div class="ml-2">
-                                {!! __('I agree to the :terms_of_service and :privacy_policy', [
-                                        'terms_of_service' => '<a target="_blank" href="'.route('terms.show').'" class="underline text-sm text-gray-600 hover:text-gray-900 rounded-md focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">'.__('Terms of Service').'</a>',
-                                        'privacy_policy' => '<a target="_blank" href="'.route('policy.show').'" class="underline text-sm text-gray-600 hover:text-gray-900 rounded-md focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">'.__('Privacy Policy').'</a>',
-                                ]) !!}
-                            </div>
-                        </div>
-                    </x-label>
+            <form id="formAuthentication" class="mb-3" action="{{route('register')}}" method="POST">
+              @csrf
+              <div class="mb-3">
+                <label for="email" class="form-label">Email</label>
+                <input type="text" class="form-control {{$errors->has('email')?'is-invalid':''}}"
+                       name="email" placeholder="Enter your email" autofocus>
+                @error('email')
+                <div class="fv-plugins-message-container fv-plugins-message-container--enabled invalid-feedback">
+                  <div data-field="formValidationName" data-validator="notEmpty">{{$message}}</div>
                 </div>
-            @endif
+                @enderror
+              </div>
+              <div class="mb-3">
+                <label for="name" class="form-label">Name</label>
+                <input type="text" class="form-control {{$errors->has('name')?'is-invalid':''}}"
+                       name="name" placeholder="Enter your name" autofocus>
+                @error('name')
+                <div class="fv-plugins-message-container fv-plugins-message-container--enabled invalid-feedback">
+                  <div data-field="formValidationName" data-validator="notEmpty">{{$message}}</div>
+                </div>
+                @enderror
+              </div>
+              <div class="mb-3 form-password-toggle">
+                <div class="d-flex justify-content-between">
+                  <label class="form-label" for="password">Password</label>
+                </div>
+                <div class="input-group input-group-merge">
+                  <input type="password" id="password"
+                         class="form-control {{$errors->has('password')?'is-invalid':''}}"
+                         name="password"
+                         placeholder="********"
+                         aria-describedby="password"/>
+                  <span class="input-group-text cursor-pointer"><i class="ti ti-eye-off"></i></span>
+                </div>
+                @error('password')
+                <div class="fv-plugins-message-container fv-plugins-message-container--enabled invalid-feedback">
+                  <div data-field="formValidationName" data-validator="notEmpty">{{$message}}</div>
+                </div>
+                @enderror
+              </div>
+              <div class="mb-3 form-password-toggle">
+                <div class="d-flex justify-content-between">
+                  <label class="form-label" for="password">Password</label>
+                </div>
+                <div class="input-group input-group-merge">
+                  <input type="password" id="password_confirmation"
+                         class="form-control {{$errors->has('password_confirmation')?'is-invalid':''}}"
+                         name="password_confirmation"
+                         placeholder="********"
+                         aria-describedby="password_confirmation"/>
+                  <span class="input-group-text cursor-pointer"><i class="ti ti-eye-off"></i></span>
+                </div>
+                @error('password_confirmation')
+                <div class="fv-plugins-message-container fv-plugins-message-container--enabled invalid-feedback">
+                  <div data-field="formValidationName" data-validator="notEmpty">{{$message}}</div>
+                </div>
+                @enderror
+              </div>
 
-            <div class="flex items-center justify-end mt-4">
-                <a class="underline text-sm text-gray-600 hover:text-gray-900 rounded-md focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500" href="{{ route('login') }}">
-                    {{ __('Already registered?') }}
-                </a>
+              <div class="mb-3">
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" id="terms-conditions" name="terms">
+                  <label class="form-check-label" for="terms-conditions">
+                    I agree to
+                    <a href="javascript:void(0);">privacy policy & terms</a>
+                  </label>
+                </div>
+              </div>
+              <button class="btn btn-primary d-grid w-100">
+                Sign up
+              </button>
+            </form>
 
-                <x-button class="ml-4">
-                    {{ __('Register') }}
-                </x-button>
-            </div>
-        </form>
-    </x-authentication-card>
-</x-guest-layout>
+            <p class="text-center">
+              <span>Already have an account?</span>
+              <a href="{{url('auth/login-basic')}}">
+                <span>Sign in instead</span>
+              </a>
+            </p>
+          </div>
+          <!-- Register Card -->
+        </div>
+      </div>
+    </div>
+@endsection
