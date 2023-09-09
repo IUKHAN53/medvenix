@@ -11,6 +11,12 @@
       "icon": "menu-icon tf-icons ti ti-user",
       "name": "Manage Users",
       "slug": "user-management"
+    },
+    {
+      "url": "teams",
+      "icon": "menu-icon tf-icons ti ti-id-badge",
+      "name": "Manage Team Members",
+      "slug": "team-management"
     }
   ]
 }

@@ -100,8 +100,8 @@
       <div class="card">
         <div class="card-header d-flex justify-content-between">
           <div>
-            <h5 class="card-title mb-0">Last updates</h5>
-            <small class="text-muted">Commercial networks</small>
+            <h5 class="card-title mb-0">Users</h5>
+            <small class="text-muted">Registered Users over time</small>
           </div>
         </div>
         <div class="card-body">
@@ -146,6 +146,7 @@
         }
       };
 
+
       const users_chart = document.querySelector('#users_chart'),
         users_chart_config = {
           chart: {
@@ -181,16 +182,9 @@
             }
           },
           colors: [chartColors.area.series3, chartColors.area.series2, chartColors.area.series1],
-          series: [
-            {
-              name: 'Users Registered',
-              data: [100, 120, 90, 170, 130, 160, 140, 240, 220, 180, 270, 280, 375]
-            },
-          ],
+          series: [@json($seriesData)],
           xaxis: {
-            categories: [
-              'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'
-            ],
+            categories: [@json($dates)],
             axisBorder: {
               show: false
             },

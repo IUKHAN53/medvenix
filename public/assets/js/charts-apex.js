@@ -97,34 +97,13 @@
       colors: [chartColors.area.series3, chartColors.area.series2, chartColors.area.series1],
       series: [
         {
-          name: 'Visits',
+          name: 'Users Registered',
           data: [100, 120, 90, 170, 130, 160, 140, 240, 220, 180, 270, 280, 375]
         },
-        {
-          name: 'Clicks',
-          data: [60, 80, 70, 110, 80, 100, 90, 180, 160, 140, 200, 220, 275]
-        },
-        {
-          name: 'Sales',
-          data: [20, 40, 30, 70, 40, 60, 50, 140, 120, 100, 140, 180, 220]
-        }
       ],
       xaxis: {
         categories: [
-          '7/12',
-          '8/12',
-          '9/12',
-          '10/12',
-          '11/12',
-          '12/12',
-          '13/12',
-          '14/12',
-          '15/12',
-          '16/12',
-          '17/12',
-          '18/12',
-          '19/12',
-          '20/12'
+          'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'
         ],
         axisBorder: {
           show: false
