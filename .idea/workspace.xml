@@ -4,402 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2fa4586-d8d5-4119-9d0f-094d8ecae1a3" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/2_Navigation-menu_Call-Center-Report.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Frame-33515.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Frame-33547.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Frame-33548.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Frame-33549.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Frame-33550.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Frame-33551.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Graph-1-1.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Graph.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Group-33381.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Group-33561.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Group-3451.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Group-3452.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Group-3614.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Group-3725.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Group-3730-2.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Group-3732.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Group-3733.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Group-3740-1.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Mask-group-1.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Mask-group-2-1.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Mask-group-2.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/Mask-group-3-1.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/SiteSearch.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/about-bubble-2x.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/cchs-menu.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/menu-2x-cb-insights.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/menu-2x-gartner.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/menu-2x-juniper.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/montefiore-menu.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/novant-menu.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/About Us _ Hyro_files/wcm-menu.png.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/0f6ad5223981e13f37ab3361dcd74faa.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/4686263.js(1).download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/4686263.js(2).download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/4686263.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/97047952" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/97047952.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/9c01047286d05b7515c7cb4df12d57b3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/E-v1.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/Group-427319248.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/analytics.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/animation.gsap.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/app.4e9c45dc9d9db07e2b9d7b3877c9fcce8f1bd667.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/banner.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/bat.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/child-theme.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/clarity.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/close.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/core.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/dialog.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/elements-handlers.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/f.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/fb.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/fbevents.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/frontend-modules.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/frontend.min.js(1).download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/frontend.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/gtm.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/hooks.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/hotjar-3464080.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-baptist.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-ecmc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-hackensack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-intermountain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-mercy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-montefiore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-rent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-roper.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-summa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-urmc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-wcm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-westland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/hp-testimonial-novant-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/hp-testimonial-wcm-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/i18n.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/imagesloaded.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/insight.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/insight.old.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/jquery.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/js(1)" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/js(2)" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/js.cookie.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/lazyload.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/lottie.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/main.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/modules.12f766d4ceff5d28bd1f.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/poweredbtcky.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/regenerator-runtime.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/saved_resource(1).html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/saved_resource.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/script.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/scrollmagic.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/slick.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/swiper.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/tweenmax.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/waypoints.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/webpack-pro.runtime.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/webpack.runtime.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/wp-polyfill.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/0f6ad5223981e13f37ab3361dcd74faa.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/2_Navigation-menu_Call-Center-Report.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/4686263.js(1).download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/4686263.js(2).download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/4686263.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/97047952" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/97047952.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/9c01047286d05b7515c7cb4df12d57b3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/E-v1.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/Graph-1-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/Graph.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/Group-33561.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/Group-3451.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/Group-3452.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/Group-3614.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/Group-3725.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/Group-3730-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/Group-3732.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/Group-3733.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/Group-3740-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/Group-427319248.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/Mask-group-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/Mask-group-2-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/Mask-group-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/Mask-group-3-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/SiteSearch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/about-bubble-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/analytics.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/animation.gsap.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/app.4e9c45dc9d9db07e2b9d7b3877c9fcce8f1bd667.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/banner.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/bat.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/cchs-menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/child-theme.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/clarity.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/close.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/core.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/dialog.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/elements-handlers.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/f.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/fb.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/fbevents.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/frontend-modules.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/frontend.min.js(1).download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/frontend.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/gtm.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/hooks.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/hotjar-3464080.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-baptist.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-ecmc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-hackensack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-intermountain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-mercy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-montefiore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-rent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-roper.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-summa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-urmc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-wcm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/hp-logo-framed-westland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/hp-testimonial-novant-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/hp-testimonial-wcm-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/i18n.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/imagesloaded.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/insight.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/insight.old.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/jquery.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/js(1)" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/js(2)" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/js.cookie.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/lazyload.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/lottie.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/main.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/menu-2x-cb-insights.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/menu-2x-gartner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/menu-2x-juniper.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/modules.12f766d4ceff5d28bd1f.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/montefiore-menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/novant-menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/poweredbtcky.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/regenerator-runtime.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/saved_resource(1).html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/saved_resource.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/script.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/scrollmagic.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/slick.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/swiper.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/tweenmax.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/waypoints.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/wcm-menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/webpack-pro.runtime.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/webpack.runtime.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/Hyro _ Conversational AI for Enterprise_files/wp-polyfill.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/custom-home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/eicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/eicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/eicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/eicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/eicons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/icons/calendar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/icons/calendar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/animation.gsap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/child-theme.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/core.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/lazyload.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/scrollmagic.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/tweenmax.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/0f6ad5223981e13f37ab3361dcd74faa.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/2_Navigation-menu_Call-Center-Report.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/4686263.js(1).download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/4686263.js(2).download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/4686263.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/97047952" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/97047952.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/9c01047286d05b7515c7cb4df12d57b3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/E-v1.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/Graph-1-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/Graph.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/Group-33561.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/Group-3451.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/Group-3452.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/Group-3614.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/Group-3725.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/Group-3730-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/Group-3732.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/Group-3733.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/Group-3740-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/Mask-group-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/Mask-group-2-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/Mask-group-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/Mask-group-3-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/SiteSearch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/about-bubble-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/analytics.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/animation.gsap.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/app.4e9c45dc9d9db07e2b9d7b3877c9fcce8f1bd667.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/banner.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/bat.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/cchs-menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/child-theme.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/clarity.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/close.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/core.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/dialog.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/elements-handlers.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/fb.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/fbevents.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/frontend-modules.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/frontend.min.js(1).download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/frontend.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/gtm.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/hooks.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/hotjar-3464080.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/hp-logo-framed-arc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/hp-logo-framed-baptist.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/hp-logo-framed-ecmc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/hp-logo-framed-hackensack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/hp-logo-framed-intermountain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/hp-logo-framed-mercy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/hp-logo-framed-montefiore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/hp-logo-framed-novant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/hp-logo-framed-rent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/hp-logo-framed-roper.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/hp-logo-framed-summa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/hp-logo-framed-urmc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/hp-logo-framed-wcm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/hp-logo-framed-westland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/hp-testimonial-novant-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/hp-testimonial-wcm-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/i18n.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/imagesloaded.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/insight.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/insight.old.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/jquery.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/js.cookie.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/lazyload.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/lottie.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/main.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/menu-2x-cb-insights.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/menu-2x-gartner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/menu-2x-juniper.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/modules.12f766d4ceff5d28bd1f.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/montefiore-menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/novant-menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/poweredbtcky.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/regenerator-runtime.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/rx-mgmt-2x-hp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/saved_resource(1).html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/saved_resource.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/script.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/scrollmagic.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/slick.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/swiper.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/tweenmax.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/waypoints.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/wcm-menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/webpack-pro.runtime.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/webpack.runtime.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-files/wp-polyfill.min.js.download" afterDir="false" />
+    <list default="true" id="f2fa4586-d8d5-4119-9d0f-094d8ecae1a3" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/assets/css/home2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/circle-shape-green.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/about-us-bg-video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/about-us-video.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/About Us _ Hyro.html" beforeDir="false" afterPath="$PROJECT_DIR$/About Us _ Hyro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/2_Navigation-menu_Call-Center-Report.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/2_Navigation-menu_Call-Center-Report.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/4686263.js(1).download" beforeDir="false" afterPath="$PROJECT_DIR$/About Us _ Hyro_files/4686263.js(1).download" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/4686263.js(2).download" beforeDir="false" afterPath="$PROJECT_DIR$/About Us _ Hyro_files/4686263.js(2).download" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/4686263.js.download" beforeDir="false" afterPath="$PROJECT_DIR$/About Us _ Hyro_files/4686263.js.download" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/97047952" beforeDir="false" afterPath="$PROJECT_DIR$/About Us _ Hyro_files/97047952" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Aaron-Bours-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Aaron-Bours.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Adi-Meiri-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Adi-Meiri.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Daniel-Ben-Tov-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Daniel-Ben-Tov.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Frame-33459.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Frame-33501-p.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Frame-33502.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Frame-33506.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Frame-33507.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Frame-33515.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Frame-33547.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Frame-33548.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Frame-33549.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Frame-33550.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Frame-33551.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Gili-Lichtman-Kurtz-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Gili-Lichtman-Kurtz.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Graph-1-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/Graph-1-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/Graph.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Group-1-2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Group-33381.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Group-33477-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Group-33477.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Group-33478.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Group-33499.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Group-33561.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/Group-33561.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Group-3451.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/Group-3451.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Group-3452.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/Group-3452.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Group-3614.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/Group-3614.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Group-3725.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/Group-3725.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Group-3730-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/Group-3730-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Group-3732.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/Group-3732.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Group-3733.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/Group-3733.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Group-3740-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/Group-3740-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Israel-Krush-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Israel-Krush.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Madeline-Boon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Mask-group-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/Mask-group-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Mask-group-2-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/Mask-group-2-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Mask-group-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/Mask-group-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Mask-group-3-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/Mask-group-3-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Maya-Agmon-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Maya-Agmon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Michael-Blumental-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Michael-Blumental.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Nitzan-Bar-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Nitzan-Bar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Persistence-prevails.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Quote_asset_top-bot.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Quote_asset_top.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Rom-Cohen-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Rom-Cohen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Rotem-Fisch-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Rotem-Fisch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/SiteSearch.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/SiteSearch.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Ziv-Gidron-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/Ziv-Gidron.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/about-bubble-2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/about-bubble-2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/adi-small-2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/cchs-menu.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/cchs-menu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/f.txt" beforeDir="false" afterPath="$PROJECT_DIR$/About Us _ Hyro_files/f.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/gtm.js.download" beforeDir="false" afterPath="$PROJECT_DIR$/About Us _ Hyro_files/gtm.js.download" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/hotjar-3464080.js.download" beforeDir="false" afterPath="$PROJECT_DIR$/About Us _ Hyro_files/hotjar-3464080.js.download" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/inbar-small-2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/js" beforeDir="false" afterPath="$PROJECT_DIR$/About Us _ Hyro_files/js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/js(1)" beforeDir="false" afterPath="$PROJECT_DIR$/About Us _ Hyro_files/js(1)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/js(2)" beforeDir="false" afterPath="$PROJECT_DIR$/About Us _ Hyro_files/js(2)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/menu-2x-cb-insights.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/menu-2x-cb-insights.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/menu-2x-gartner.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/menu-2x-gartner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/menu-2x-juniper.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/menu-2x-juniper.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/montefiore-menu.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/montefiore-menu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/novant-menu.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/novant-menu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/rotem-small-2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/uri-f-bw-min.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/uri-f-co-min.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Us _ Hyro_files/wcm-menu.png" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise_files/wcm-menu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hyro _ Conversational AI for Enterprise.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/about-us.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/about-us.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/home.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -426,30 +40,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/suhaib/hyro/assets/fonts",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/suhaib/hyro/assets/fonts&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\suhaib\hyro\assets\fonts" />
       <recent name="E:\suhaib\hyro\assets\img\logo" />
       <recent name="E:\suhaib\hyro\assets\videos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\suhaib\hyro\assets\videos" />
+      <recent name="E:\suhaib\hyro\assets\css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -463,7 +81,9 @@
       <workItem from="1693663466212" duration="363000" />
       <workItem from="1693665016592" duration="9422000" />
       <workItem from="1693674601002" duration="16000" />
-      <workItem from="1693751046650" duration="10652000" />
+      <workItem from="1693751046650" duration="11280000" />
+      <workItem from="1693924702195" duration="2688000" />
+      <workItem from="1694256952597" duration="10280000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1693672458669</created>
@@ -472,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693672458669</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update">
+      <option name="closed" value="true" />
+      <created>1693763402218</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693763402218</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,8 +118,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>

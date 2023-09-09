@@ -1338,7 +1338,7 @@ body {
     --e-global-color-af255e3: #FFFFFF;
     --e-global-color-5c259b5: #000000;
     --e-global-color-c11881f: #F8FBFF;
-    --e-global-color-39892f7: #EDF5FF;
+    --e-global-color-39892f7: #DCE9E2;
     --e-global-color-f1f3141: #D5E7FE;
     --e-global-color-9a997aa: #B7D0F2;
     --e-global-color-4b339e4: #8DBBF2;
@@ -1346,15 +1346,15 @@ body {
     --e-global-color-f986c55: #EEEEFF;
     --e-global-color-e3484e0: #DEDFFF;
     --e-global-color-1f2d644: #A7AAF8;
-    --e-global-color-e7325d6: #7583F7;
-    --e-global-color-48ab86c: #4548C4;
-    --e-global-color-32a6860: #373A9A;
+    --e-global-color-e7325d6: #045446;
+    --e-global-color-48ab86c: #00856f;
+    --e-global-color-32a6860: #045446;
     --e-global-color-922165b: #F2F5FC;
     --e-global-color-76a4227: #DBDFE9;
     --e-global-color-cdcc93e: #CAC9D9;
     --e-global-color-21b0c73: #A6A5C0;
     --e-global-color-d3a9807: #3F3F66;
-    --e-global-color-55f3257: #161453;
+    --e-global-color-55f3257: #045446;
     --e-global-color-c768d49: #0B0A29;
     --e-global-color-04d9e33: #FFF9FB;
     --e-global-color-a7305ec: #FFF0F4;
@@ -1529,7 +1529,7 @@ body {
 }
 
 .elementor-6547 .elementor-element.elementor-element-603e9369:not(.elementor-motion-effects-element-type-background), .elementor-6547 .elementor-element.elementor-element-603e9369 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
-    background-color: #f7f6fe
+    background-color: #DCE9E2
 }
 
 .elementor-6547 .elementor-element.elementor-element-603e9369 {
@@ -3601,7 +3601,7 @@ body {
     font-family: "Beausite Classic", sans-serif;
     font-size: 18px;
     font-weight: 400;
-    color: #161453;
+    color: #045446;
     line-height: 135%;
     letter-spacing: -.005em;
     background-color: #fff
@@ -3633,12 +3633,12 @@ body .elementor-element.hyro-tagline .elementor-heading-title, body .hyro-taglin
 
 ::-moz-selection {
     color: #fff;
-    background-color: #161453
+    background-color: #045446
 }
 
 ::selection {
     color: #fff;
-    background-color: #161453
+    background-color: #045446
 }
 
 #wpadminbar {
@@ -3717,7 +3717,7 @@ h1, h2, h3, h4, h5, p {
 }
 
 .elementor-element h1, .elementor-element h2, .elementor-element h3, .elementor-element h4, .elementor-element h5, .elementor-element span h1, .elementor-element span h2, .elementor-element span h3, .elementor-element span h4, .elementor-element span h5, .elementor-element strong h1, .elementor-element strong h2, .elementor-element strong h3, .elementor-element strong h4, .elementor-element strong h5, .elementor-element.elementor-widget-heading h1, .elementor-element.elementor-widget-heading h2, .elementor-element.elementor-widget-heading h3, .elementor-element.elementor-widget-heading h4, .elementor-element.elementor-widget-heading h5, body h1, body h2, body h3, body h4, body h5, body span h1, body span h2, body span h3, body span h4, body span h5, body strong h1, body strong h2, body strong h3, body strong h4, body strong h5, body.elementor-widget-heading h1, body.elementor-widget-heading h2, body.elementor-widget-heading h3, body.elementor-widget-heading h4, body.elementor-widget-heading h5 {
-    color: #161453
+    color: #045446
 }
 
 .elementor-element h1, .elementor-element h1 .elementor-heading-title, .elementor-element h2, .elementor-element h2 .elementor-heading-title, .elementor-element h3, .elementor-element h3 .elementor-heading-title, .elementor-element h4, .elementor-element h4 .elementor-heading-title, .elementor-element h5, .elementor-element h5 .elementor-heading-title, .elementor-element span h1, .elementor-element span h1 .elementor-heading-title, .elementor-element span h2, .elementor-element span h2 .elementor-heading-title, .elementor-element span h3, .elementor-element span h3 .elementor-heading-title, .elementor-element span h4, .elementor-element span h4 .elementor-heading-title, .elementor-element span h5, .elementor-element span h5 .elementor-heading-title, .elementor-element span.d-h3, .elementor-element span.d-h3 .elementor-heading-title, .elementor-element span.d-h4, .elementor-element span.d-h4 .elementor-heading-title, .elementor-element span.d-h5, .elementor-element span.d-h5 .elementor-heading-title, .elementor-element span.m-h2, .elementor-element span.m-h2 .elementor-heading-title, .elementor-element span.m-h3, .elementor-element span.m-h3 .elementor-heading-title, .elementor-element span.m-h6, .elementor-element span.m-h6 .elementor-heading-title, .elementor-element strong h1, .elementor-element strong h1 .elementor-heading-title, .elementor-element strong h2, .elementor-element strong h2 .elementor-heading-title, .elementor-element strong h3, .elementor-element strong h3 .elementor-heading-title, .elementor-element strong h4, .elementor-element strong h4 .elementor-heading-title, .elementor-element strong h5, .elementor-element strong h5 .elementor-heading-title, .elementor-element strong.d-h3, .elementor-element strong.d-h3 .elementor-heading-title, .elementor-element strong.d-h4, .elementor-element strong.d-h4 .elementor-heading-title, .elementor-element strong.d-h5, .elementor-element strong.d-h5 .elementor-heading-title, .elementor-element strong.m-h2, .elementor-element strong.m-h2 .elementor-heading-title, .elementor-element strong.m-h3, .elementor-element strong.m-h3 .elementor-heading-title, .elementor-element strong.m-h6, .elementor-element strong.m-h6 .elementor-heading-title, .elementor-element.d-h3, .elementor-element.d-h3 .elementor-heading-title, .elementor-element.d-h4, .elementor-element.d-h4 .elementor-heading-title, .elementor-element.d-h5, .elementor-element.d-h5 .elementor-heading-title, .elementor-element.elementor-widget-heading h1, .elementor-element.elementor-widget-heading h1 .elementor-heading-title, .elementor-element.elementor-widget-heading h2, .elementor-element.elementor-widget-heading h2 .elementor-heading-title, .elementor-element.elementor-widget-heading h3, .elementor-element.elementor-widget-heading h3 .elementor-heading-title, .elementor-element.elementor-widget-heading h4, .elementor-element.elementor-widget-heading h4 .elementor-heading-title, .elementor-element.elementor-widget-heading h5, .elementor-element.elementor-widget-heading h5 .elementor-heading-title, .elementor-element.elementor-widget-heading.d-h3, .elementor-element.elementor-widget-heading.d-h3 .elementor-heading-title, .elementor-element.elementor-widget-heading.d-h4, .elementor-element.elementor-widget-heading.d-h4 .elementor-heading-title, .elementor-element.elementor-widget-heading.d-h5, .elementor-element.elementor-widget-heading.d-h5 .elementor-heading-title, .elementor-element.elementor-widget-heading.m-h2, .elementor-element.elementor-widget-heading.m-h2 .elementor-heading-title, .elementor-element.elementor-widget-heading.m-h3, .elementor-element.elementor-widget-heading.m-h3 .elementor-heading-title, .elementor-element.elementor-widget-heading.m-h6, .elementor-element.elementor-widget-heading.m-h6 .elementor-heading-title, .elementor-element.m-h2, .elementor-element.m-h2 .elementor-heading-title, .elementor-element.m-h3, .elementor-element.m-h3 .elementor-heading-title, .elementor-element.m-h6, .elementor-element.m-h6 .elementor-heading-title, body h1, body h1 .elementor-heading-title, body h2, body h2 .elementor-heading-title, body h3, body h3 .elementor-heading-title, body h4, body h4 .elementor-heading-title, body h5, body h5 .elementor-heading-title, body span h1, body span h1 .elementor-heading-title, body span h2, body span h2 .elementor-heading-title, body span h3, body span h3 .elementor-heading-title, body span h4, body span h4 .elementor-heading-title, body span h5, body span h5 .elementor-heading-title, body span.d-h3, body span.d-h3 .elementor-heading-title, body span.d-h4, body span.d-h4 .elementor-heading-title, body span.d-h5, body span.d-h5 .elementor-heading-title, body span.m-h2, body span.m-h2 .elementor-heading-title, body span.m-h3, body span.m-h3 .elementor-heading-title, body span.m-h6, body span.m-h6 .elementor-heading-title, body strong h1, body strong h1 .elementor-heading-title, body strong h2, body strong h2 .elementor-heading-title, body strong h3, body strong h3 .elementor-heading-title, body strong h4, body strong h4 .elementor-heading-title, body strong h5, body strong h5 .elementor-heading-title, body strong.d-h3, body strong.d-h3 .elementor-heading-title, body strong.d-h4, body strong.d-h4 .elementor-heading-title, body strong.d-h5, body strong.d-h5 .elementor-heading-title, body strong.m-h2, body strong.m-h2 .elementor-heading-title, body strong.m-h3, body strong.m-h3 .elementor-heading-title, body strong.m-h6, body strong.m-h6 .elementor-heading-title, body.d-h3, body.d-h3 .elementor-heading-title, body.d-h4, body.d-h4 .elementor-heading-title, body.d-h5, body.d-h5 .elementor-heading-title, body.elementor-widget-heading h1, body.elementor-widget-heading h1 .elementor-heading-title, body.elementor-widget-heading h2, body.elementor-widget-heading h2 .elementor-heading-title, body.elementor-widget-heading h3, body.elementor-widget-heading h3 .elementor-heading-title, body.elementor-widget-heading h4, body.elementor-widget-heading h4 .elementor-heading-title, body.elementor-widget-heading h5, body.elementor-widget-heading h5 .elementor-heading-title, body.elementor-widget-heading.d-h3, body.elementor-widget-heading.d-h3 .elementor-heading-title, body.elementor-widget-heading.d-h4, body.elementor-widget-heading.d-h4 .elementor-heading-title, body.elementor-widget-heading.d-h5, body.elementor-widget-heading.d-h5 .elementor-heading-title, body.elementor-widget-heading.m-h2, body.elementor-widget-heading.m-h2 .elementor-heading-title, body.elementor-widget-heading.m-h3, body.elementor-widget-heading.m-h3 .elementor-heading-title, body.elementor-widget-heading.m-h6, body.elementor-widget-heading.m-h6 .elementor-heading-title, body.m-h2, body.m-h2 .elementor-heading-title, body.m-h3, body.m-h3 .elementor-heading-title, body.m-h6, body.m-h6 .elementor-heading-title {
@@ -3843,7 +3843,7 @@ h1, h2, h3, h4, h5, p {
     }
 
     #wrapper-navbar .navbar-nav > .menu-item:focus > .nav-link:not(.btn).dropdown-toggle, #wrapper-navbar .navbar-nav > .menu-item:hover > .nav-link:not(.btn).dropdown-toggle {
-        color: #4548c4
+        color: #00856f
     }
 }
 
@@ -3885,7 +3885,7 @@ h1, h2, h3, h4, h5, p {
 }
 
 p {
-    color: #161453
+    color: #045446
 }
 
 a.btn, a.btn.nav-link, a.elementor-button, button.btn, button.btn.nav-link, button.elementor-button, button[type=submit].elementor-button.btn, button[type=submit].elementor-button.btn.nav-link, button[type=submit].elementor-button.elementor-button {
@@ -3984,11 +3984,11 @@ a.btn.btn-secondary:hover, a.btn.nav-link.btn-secondary:hover, a.elementor-butto
 }
 
 a.btn.btn-blue.btn-primary, a.btn.btn-blue.btn-secondary, a.btn.nav-link.btn-blue.btn-primary, a.btn.nav-link.btn-blue.btn-secondary, a.elementor-button.btn-blue.btn-primary, a.elementor-button.btn-blue.btn-secondary, button.btn.btn-blue.btn-primary, button.btn.btn-blue.btn-secondary, button.btn.nav-link.btn-blue.btn-primary, button.btn.nav-link.btn-blue.btn-secondary, button.elementor-button.btn-blue.btn-primary, button.elementor-button.btn-blue.btn-secondary, button[type=submit].elementor-button.btn.btn-blue.btn-primary, button[type=submit].elementor-button.btn.btn-blue.btn-secondary, button[type=submit].elementor-button.btn.nav-link.btn-blue.btn-primary, button[type=submit].elementor-button.btn.nav-link.btn-blue.btn-secondary, button[type=submit].elementor-button.elementor-button.btn-blue.btn-primary, button[type=submit].elementor-button.elementor-button.btn-blue.btn-secondary {
-    border-color: #4548c4
+    border-color: #00856f
 }
 
 a.btn.btn-blue.btn-primary:focus, a.btn.btn-blue.btn-primary:hover, a.btn.btn-blue.btn-secondary:focus, a.btn.btn-blue.btn-secondary:hover, a.btn.nav-link.btn-blue.btn-primary:focus, a.btn.nav-link.btn-blue.btn-primary:hover, a.btn.nav-link.btn-blue.btn-secondary:focus, a.btn.nav-link.btn-blue.btn-secondary:hover, a.elementor-button.btn-blue.btn-primary:focus, a.elementor-button.btn-blue.btn-primary:hover, a.elementor-button.btn-blue.btn-secondary:focus, a.elementor-button.btn-blue.btn-secondary:hover, button.btn.btn-blue.btn-primary:focus, button.btn.btn-blue.btn-primary:hover, button.btn.btn-blue.btn-secondary:focus, button.btn.btn-blue.btn-secondary:hover, button.btn.nav-link.btn-blue.btn-primary:focus, button.btn.nav-link.btn-blue.btn-primary:hover, button.btn.nav-link.btn-blue.btn-secondary:focus, button.btn.nav-link.btn-blue.btn-secondary:hover, button.elementor-button.btn-blue.btn-primary:focus, button.elementor-button.btn-blue.btn-primary:hover, button.elementor-button.btn-blue.btn-secondary:focus, button.elementor-button.btn-blue.btn-secondary:hover, button[type=submit].elementor-button.btn.btn-blue.btn-primary:focus, button[type=submit].elementor-button.btn.btn-blue.btn-primary:hover, button[type=submit].elementor-button.btn.btn-blue.btn-secondary:focus, button[type=submit].elementor-button.btn.btn-blue.btn-secondary:hover, button[type=submit].elementor-button.btn.nav-link.btn-blue.btn-primary:focus, button[type=submit].elementor-button.btn.nav-link.btn-blue.btn-primary:hover, button[type=submit].elementor-button.btn.nav-link.btn-blue.btn-secondary:focus, button[type=submit].elementor-button.btn.nav-link.btn-blue.btn-secondary:hover, button[type=submit].elementor-button.elementor-button.btn-blue.btn-primary:focus, button[type=submit].elementor-button.elementor-button.btn-blue.btn-primary:hover, button[type=submit].elementor-button.elementor-button.btn-blue.btn-secondary:focus, button[type=submit].elementor-button.elementor-button.btn-blue.btn-secondary:hover {
-    border-color: #373a9a
+    border-color: #045446
 }
 
 a.btn.btn-blue.btn-primary:disabled, a.btn.btn-blue.btn-secondary:disabled, a.btn.nav-link.btn-blue.btn-primary:disabled, a.btn.nav-link.btn-blue.btn-secondary:disabled, a.elementor-button.btn-blue.btn-primary:disabled, a.elementor-button.btn-blue.btn-secondary:disabled, button.btn.btn-blue.btn-primary:disabled, button.btn.btn-blue.btn-secondary:disabled, button.btn.nav-link.btn-blue.btn-primary:disabled, button.btn.nav-link.btn-blue.btn-secondary:disabled, button.elementor-button.btn-blue.btn-primary:disabled, button.elementor-button.btn-blue.btn-secondary:disabled, button[type=submit].elementor-button.btn.btn-blue.btn-primary:disabled, button[type=submit].elementor-button.btn.btn-blue.btn-secondary:disabled, button[type=submit].elementor-button.btn.nav-link.btn-blue.btn-primary:disabled, button[type=submit].elementor-button.btn.nav-link.btn-blue.btn-secondary:disabled, button[type=submit].elementor-button.elementor-button.btn-blue.btn-primary:disabled, button[type=submit].elementor-button.elementor-button.btn-blue.btn-secondary:disabled {
@@ -3996,11 +3996,11 @@ a.btn.btn-blue.btn-primary:disabled, a.btn.btn-blue.btn-secondary:disabled, a.bt
 }
 
 a.btn.btn-blue.btn-primary, a.btn.nav-link.btn-blue.btn-primary, a.elementor-button.btn-blue.btn-primary, button.btn.btn-blue.btn-primary, button.btn.nav-link.btn-blue.btn-primary, button.elementor-button.btn-blue.btn-primary, button[type=submit].elementor-button.btn.btn-blue.btn-primary, button[type=submit].elementor-button.btn.nav-link.btn-blue.btn-primary, button[type=submit].elementor-button.elementor-button.btn-blue.btn-primary {
-    background: #4548c4
+    background: #00856f
 }
 
 a.btn.btn-blue.btn-primary:focus, a.btn.btn-blue.btn-primary:hover, a.btn.nav-link.btn-blue.btn-primary:focus, a.btn.nav-link.btn-blue.btn-primary:hover, a.elementor-button.btn-blue.btn-primary:focus, a.elementor-button.btn-blue.btn-primary:hover, button.btn.btn-blue.btn-primary:focus, button.btn.btn-blue.btn-primary:hover, button.btn.nav-link.btn-blue.btn-primary:focus, button.btn.nav-link.btn-blue.btn-primary:hover, button.elementor-button.btn-blue.btn-primary:focus, button.elementor-button.btn-blue.btn-primary:hover, button[type=submit].elementor-button.btn.btn-blue.btn-primary:focus, button[type=submit].elementor-button.btn.btn-blue.btn-primary:hover, button[type=submit].elementor-button.btn.nav-link.btn-blue.btn-primary:focus, button[type=submit].elementor-button.btn.nav-link.btn-blue.btn-primary:hover, button[type=submit].elementor-button.elementor-button.btn-blue.btn-primary:focus, button[type=submit].elementor-button.elementor-button.btn-blue.btn-primary:hover {
-    background: #373a9a
+    background: #045446
 }
 
 a.btn.btn-blue.btn-primary:disabled, a.btn.nav-link.btn-blue.btn-primary:disabled, a.elementor-button.btn-blue.btn-primary:disabled, button.btn.btn-blue.btn-primary:disabled, button.btn.nav-link.btn-blue.btn-primary:disabled, button.elementor-button.btn-blue.btn-primary:disabled, button[type=submit].elementor-button.btn.btn-blue.btn-primary:disabled, button[type=submit].elementor-button.btn.nav-link.btn-blue.btn-primary:disabled, button[type=submit].elementor-button.elementor-button.btn-blue.btn-primary:disabled {
@@ -4009,11 +4009,11 @@ a.btn.btn-blue.btn-primary:disabled, a.btn.nav-link.btn-blue.btn-primary:disable
 }
 
 a.btn.btn-blue.btn-secondary, a.btn.nav-link.btn-blue.btn-secondary, a.elementor-button.btn-blue.btn-secondary, button.btn.btn-blue.btn-secondary, button.btn.nav-link.btn-blue.btn-secondary, button.elementor-button.btn-blue.btn-secondary, button[type=submit].elementor-button.btn.btn-blue.btn-secondary, button[type=submit].elementor-button.btn.nav-link.btn-blue.btn-secondary, button[type=submit].elementor-button.elementor-button.btn-blue.btn-secondary {
-    color: #4548c4
+    color: #00856f
 }
 
 a.btn.btn-blue.btn-secondary:focus, a.btn.btn-blue.btn-secondary:hover, a.btn.nav-link.btn-blue.btn-secondary:focus, a.btn.nav-link.btn-blue.btn-secondary:hover, a.elementor-button.btn-blue.btn-secondary:focus, a.elementor-button.btn-blue.btn-secondary:hover, button.btn.btn-blue.btn-secondary:focus, button.btn.btn-blue.btn-secondary:hover, button.btn.nav-link.btn-blue.btn-secondary:focus, button.btn.nav-link.btn-blue.btn-secondary:hover, button.elementor-button.btn-blue.btn-secondary:focus, button.elementor-button.btn-blue.btn-secondary:hover, button[type=submit].elementor-button.btn.btn-blue.btn-secondary:focus, button[type=submit].elementor-button.btn.btn-blue.btn-secondary:hover, button[type=submit].elementor-button.btn.nav-link.btn-blue.btn-secondary:focus, button[type=submit].elementor-button.btn.nav-link.btn-blue.btn-secondary:hover, button[type=submit].elementor-button.elementor-button.btn-blue.btn-secondary:focus, button[type=submit].elementor-button.elementor-button.btn-blue.btn-secondary:hover {
-    color: #373a9a
+    color: #045446
 }
 
 a.btn.btn-blue.btn-secondary:disabled, a.btn.nav-link.btn-blue.btn-secondary:disabled, a.elementor-button.btn-blue.btn-secondary:disabled, button.btn.btn-blue.btn-secondary:disabled, button.btn.nav-link.btn-blue.btn-secondary:disabled, button.elementor-button.btn-blue.btn-secondary:disabled, button[type=submit].elementor-button.btn.btn-blue.btn-secondary:disabled, button[type=submit].elementor-button.btn.nav-link.btn-blue.btn-secondary:disabled, button[type=submit].elementor-button.elementor-button.btn-blue.btn-secondary:disabled {
@@ -4155,7 +4155,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
         height: 2px;
         position: absolute;
         border-radius: 4px;
-        background-color: #161453;
+        background-color: #045446;
         -webkit-transition-property: -webkit-transform;
         transition-property: -webkit-transform;
         transition-property: transform;
@@ -4325,7 +4325,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 #wrapper-navbar .navbar-nav > .menu-item:focus > .nav-link:not(.btn), #wrapper-navbar .navbar-nav > .menu-item:hover > .nav-link:not(.btn) {
-    color: #4548c4
+    color: #00856f
 }
 
 #wrapper-navbar .navbar-nav > .menu-item.dropdown.show > .nav-link:not(.btn).dropdown-toggle svg {
@@ -4334,13 +4334,13 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 #wrapper-navbar .navbar-nav > .menu-item.dropdown.show > .nav-link:not(.btn).dropdown-toggle svg path {
-    stroke: #161453
+    stroke: #045446
 }
 
 #wrapper-navbar .navbar-nav > .menu-item > .nav-link:not(.btn) {
     padding: 0;
     font-size: .8rem;
-    color: #161453;
+    color: #045446;
     line-height: 1;
     -webkit-transition: color .2s;
     transition: .2s color
@@ -4376,7 +4376,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     }
 
     #wrapper-navbar .navbar-nav > .menu-item:focus > .nav-link:not(.btn), #wrapper-navbar .navbar-nav > .menu-item:hover > .nav-link:not(.btn) {
-        color: #161453
+        color: #045446
     }
 
     #wrapper-navbar .navbar-nav > .menu-item.dropdown.show > .nav-link:not(.btn) {
@@ -4388,7 +4388,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     #wrapper-navbar .navbar-nav > .menu-item > .nav-link {
         line-height: 135%;
         letter-spacing: -.005rem;
-        color: #161453
+        color: #045446
     }
 
     #wrapper-navbar .navbar-nav > .menu-item > .nav-link:not(.btn) {
@@ -4425,11 +4425,11 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 #wrapper-navbar .navbar-nav > .menu-item.dropdown.show .nav-link:not(.btn), #wrapper-navbar .navbar-nav > .menu-item.dropdown.show .nav-link:not(.btn):focus, #wrapper-navbar .navbar-nav > .menu-item.dropdown.show .nav-link:not(.btn):hover, #wrapper-navbar .navbar-nav > .menu-item.nav-item-bold .nav-link:not(.btn), #wrapper-navbar .navbar-nav > .menu-item.nav-item-bold .nav-link:not(.btn):focus, #wrapper-navbar .navbar-nav > .menu-item.nav-item-bold .nav-link:not(.btn):hover {
-    color: #161453
+    color: #045446
 }
 
 #wrapper-navbar .navbar-nav > .menu-item.dropdown.show svg path, #wrapper-navbar .navbar-nav > .menu-item.dropdown.show svg path:focus, #wrapper-navbar .navbar-nav > .menu-item.dropdown.show svg path:hover, #wrapper-navbar .navbar-nav > .menu-item.nav-item-bold svg path, #wrapper-navbar .navbar-nav > .menu-item.nav-item-bold svg path:focus, #wrapper-navbar .navbar-nav > .menu-item.nav-item-bold svg path:hover {
-    stroke: #161453
+    stroke: #045446
 }
 
 #wrapper-navbar .navbar-nav > .menu-item.dropdown {
@@ -4556,7 +4556,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     font-size: 1rem;
     line-height: 135%;
     letter-spacing: -.005rem;
-    color: #4548c4
+    color: #00856f
 }
 
 #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.navbar-bubble a {
@@ -4591,7 +4591,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--large-icons-list > .column-inner > .dropdown-menu > .nav-item > .dropdown-item:hover strong, #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--simple-list > .column-inner > .dropdown-menu > .nav-item > .dropdown-item:hover strong, #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--small-icons-list > .column-inner > .dropdown-menu > .nav-item > .dropdown-item:hover strong, #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--text-image-block > .column-inner > .dropdown-menu > .nav-item > .dropdown-item:hover strong {
-    color: #4548c4
+    color: #00856f
 }
 
 @media only screen and (min-width: 768px) {
@@ -4630,7 +4630,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 
 #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--text-image-block > .column-inner > .dropdown-menu > .nav-item > .dropdown-item .content p {
     max-width: calc(100% - 14px - 11px);
-    color: #161453;
+    color: #045446;
     -webkit-transition: .2s;
     transition: .2s all
 }
@@ -4677,7 +4677,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     }
 
     #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--large-icons-list > .column-inner > .dropdown-menu > .nav-item > .dropdown-item:hover strong, #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--simple-list > .column-inner > .dropdown-menu > .nav-item > .dropdown-item:hover strong, #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--small-icons-list > .column-inner > .dropdown-menu > .nav-item > .dropdown-item:hover strong, #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--text-image-block > .column-inner > .dropdown-menu > .nav-item > .dropdown-item:hover strong {
-        color: #161453
+        color: #045446
     }
 
     #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--text-image-block > .column-inner > .dropdown-menu > .nav-item > .dropdown-item figure {
@@ -4700,11 +4700,11 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 
 @media only screen and (min-width: 768px) {
     #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--text-image-block > .column-inner > .dropdown-menu > .nav-item > .dropdown-item:hover .content p {
-        color: #4548c4
+        color: #00856f
     }
 
     #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--text-image-block > .column-inner > .dropdown-menu > .nav-item > .dropdown-item:hover .content svg line, #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--text-image-block > .column-inner > .dropdown-menu > .nav-item > .dropdown-item:hover .content svg path {
-        stroke: #4548c4
+        stroke: #00856f
     }
 }
 
@@ -4744,7 +4744,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     }
 
     #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--large-icons-list > .column-inner > .dropdown-menu > .nav-item > .dropdown-item:hover .content p, #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--simple-list > .column-inner > .dropdown-menu > .nav-item > .dropdown-item:hover .content p, #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--small-icons-list > .column-inner > .dropdown-menu > .nav-item > .dropdown-item:hover .content p {
-        color: #161453
+        color: #045446
     }
 
     #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--small-icons-list > .column-inner > .dropdown-menu > .nav-item:not(:last-of-type) {
@@ -4942,7 +4942,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 
 @media only screen and (min-width: 768px) {
     #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--large-icons-list > .column-inner > .dropdown-menu > .nav-item > .dropdown-item:hover strong {
-        color: #4548c4
+        color: #00856f
     }
 
     #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--large-icons-list > .column-inner > .dropdown-menu > .nav-item > .dropdown-item:hover p {
@@ -4969,7 +4969,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     font-weight: 700;
     line-height: 135%;
     letter-spacing: -.005rem;
-    color: #161453;
+    color: #045446;
     text-transform: none;
     -webkit-transition: .2s;
     transition: .2s all
@@ -5041,16 +5041,16 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--images-carousel.menu-item-has-children > .column-inner:hover > .dropdown-item:not([title="#"]):not([href="#"]) {
-    color: #4548c4
+    color: #00856f
 }
 
 #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--images-carousel.menu-item-has-children > .column-inner:hover > .dropdown-item:not([title="#"]):not([href="#"]) svg line, #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item.column--images-carousel.menu-item-has-children > .column-inner:hover > .dropdown-item:not([title="#"]):not([href="#"]) svg path {
-    stroke: #4548c4
+    stroke: #00856f
 }
 
 #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item .dropdown-item {
     padding: 0;
-    color: #161453
+    color: #045446
 }
 
 #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item .dropdown-item:focus, #wrapper-navbar .navbar-nav > .menu-item > .dropdown-menu > .container > .menu-item .dropdown-item:hover {
@@ -5101,7 +5101,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 #wrapper-footer {
     position: relative;
     padding: 0;
-    background: #161453
+    background: #045446
 }
 
 @media only screen and (max-width: 782px) {
@@ -5133,7 +5133,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
         font-size: 1rem;
         font-weight: 400;
         line-height: 135%;
-        color: #161453;
+        color: #045446;
         letter-spacing: -.005rem;
         text-transform: none
     }
@@ -5273,7 +5273,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     font-size: .8rem;
     font-weight: 700;
     letter-spacing: -.005rem;
-    color: #7583f7
+    color: #fff
 }
 
 #wrapper-footer .footer-widgets__top .widget_nav_menu {
@@ -5303,7 +5303,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     font-weight: 400;
     letter-spacing: 0;
     line-height: 135%;
-    color: #7583f7;
+    color: #fff;
     text-transform: uppercase
 }
 
@@ -5349,7 +5349,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
         margin: 45px 0 0;
         padding: 16px 24px;
         border-radius: 8px;
-        background: #373a9a
+        background: #fff
     }
 }
 
@@ -5357,7 +5357,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     font-size: .8rem;
     line-height: 135%;
     letter-spacing: -.005rem;
-    color: #fff;
+    color: #045446;
     text-align: center
 }
 
@@ -5608,7 +5608,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 .hyro-section_hero--spot .elementor-widget-heading i {
-    color: #4548c4
+    color: #00856f
 }
 
 .hyro-section_hero--spot .elementor-widget-text-editor:not(:last-child) {
@@ -6934,7 +6934,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 .hyro-section_quotes-slider--home .slick-arrow svg rect {
-    fill: #4548c4
+    fill: #00856f
 }
 
 .hyro-section_quotes-slider--home .slick-arrow.slick-next {
@@ -6951,7 +6951,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 .hyro-section_quotes-slider--integrations .slick-arrow svg rect {
-    fill: #4548c4
+    fill: #00856f
 }
 
 .hyro-section_quotes-slider--call-center .slick-arrow svg rect, .hyro-section_quotes-slider--real-estate .slick-arrow svg rect {
@@ -7176,7 +7176,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 .hyro-section_skill .elementor-widget-heading:nth-of-type(2) i, .hyro-section_skill .elementor-widget-heading:nth-of-type(3) i {
-    color: #4548c4
+    color: #00856f
 }
 
 .hyro-section_skill .elementor-widget-text-editor:not(:last-child) {
@@ -7246,7 +7246,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     margin: 0 0 6px;
     font-weight: 600;
     letter-spacing: -.005em;
-    color: #161453
+    color: #045446
 }
 
 @media only screen and (max-width: 782px) {
@@ -7501,11 +7501,11 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     background-color: #dbdfe9
 }
 
-.hyro-section_skill__carousel__channel:not(.is-active) figure svg [stroke="#4548C4"] {
+.hyro-section_skill__carousel__channel:not(.is-active) figure svg [stroke="#00856f"] {
     stroke: #a6a5c0
 }
 
-.hyro-section_skill__carousel__channel:not(.is-active) figure svg [fill="#4548C4"] {
+.hyro-section_skill__carousel__channel:not(.is-active) figure svg [fill="#00856f"] {
     fill: #a6a5c0
 }
 
@@ -7544,7 +7544,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 .hyro-section_accordion-with-graphic .elementor-widget-heading:nth-of-type(2) i, .hyro-section_accordion-with-graphic .elementor-widget-heading:nth-of-type(3) i {
-    color: #4548c4
+    color: #00856f
 }
 
 @media only screen and (min-width: 768px) {
@@ -7699,7 +7699,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
         bottom: 28px;
         left: -25px;
         border-radius: 100px;
-        background: #4548c4
+        background: #00856f
     }
 
     .hyro-section_accordion-with-graphic__accordion__item.is-active:before {
@@ -7735,7 +7735,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     .hyro-section_accordion-with-graphic__accordion__item strong {
         margin: 0 0 24px;
         font-size: 1.25rem;
-        color: #4548c4
+        color: #00856f
     }
 
     .hyro-section_accordion-with-graphic__accordion__item figure {
@@ -8151,7 +8151,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     font-size: .8rem;
     line-height: 135%;
     letter-spacing: -.005rem;
-    color: #161453;
+    color: #045446;
     border-radius: 100px;
     border: 1px solid transparent;
     white-space: nowrap
@@ -8163,8 +8163,8 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 
 .hyro-section_integrations-grid__filter button.is-current {
     color: #fff;
-    border-color: #4548c4;
-    background: #4548c4
+    border-color: #00856f;
+    background: #00856f
 }
 
 @media only screen and (min-width: 768px) {
@@ -8578,13 +8578,13 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     bottom: -6px;
     left: 0;
     right: 100%;
-    background-color: #4548c4;
+    background-color: #00856f;
     -webkit-transition: .2s;
     transition: .2s all
 }
 
 .hyro-section_tabs-nav__item button.is-active span {
-    color: #4548c4
+    color: #00856f
 }
 
 .hyro-section_tabs-nav__item button.is-active span:after {
@@ -8601,7 +8601,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 
 @media only screen and (max-width: 782px) {
     .hyro-section_tabs-nav__item button span {
-        color: #4548c4
+        color: #00856f
     }
 
     .hyro-section_tabs-nav__item button span:after {
@@ -8684,7 +8684,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     font-family: "Beausite Classic", sans-serif;
     font-style: normal;
     font-weight: 600;
-    color: #4548c4
+    color: #00856f
 }
 
 .hyro-section_360diagram .elementor-inner-section .elementor-widget-image:not(:nth-last-of-type(n+3)) {
@@ -8774,7 +8774,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 .hyro-section_switching-text-video .elementor-container .elementor-col-50 .elementor-widget-wrap .elementor-widget-heading:nth-of-type(5) i {
-    color: #4548c4
+    color: #00856f
 }
 
 @media only screen and (min-width: 768px) {
@@ -8891,7 +8891,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 .hyro-section_investors .elementor-widget-heading:not(.hyro-tagline) i {
-    color: #4548c4
+    color: #00856f
 }
 
 .hyro-section_investors .elementor-inner-section:not(:last-of-type) {
@@ -9083,7 +9083,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     position: relative;
     height: 360px;
     border-radius: 8px;
-    background: #dedfff
+    background: #e8f1ec
 }
 
 .hyro-section_team__item__top-hover {
@@ -9490,7 +9490,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 .hyro-section_culture > .elementor-container > .elementor-column > .elementor-widget-wrap > .elementor-widget-heading:not(.hyro-tagline) i {
-    color: #4548c4
+    color: #00856f
 }
 
 .hyro-section_culture_inner {
@@ -9928,7 +9928,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     font-weight: 700;
     font-style: italic;
     line-height: 115%;
-    color: #4548c4
+    color: #00856f
 }
 
 .hyro-section_timeline__timeline_item--today {
@@ -10230,7 +10230,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 .hyro-section_careers-grid__nav_item strong {
-    color: #161453
+    color: #045446
 }
 
 .hyro-section_careers-grid__nav_item button {
@@ -10246,7 +10246,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     font-size: .8rem;
     line-height: 135%;
     letter-spacing: -.005rem;
-    color: #161453;
+    color: #045446;
     border-radius: 100px;
     border: 1px solid transparent;
     white-space: nowrap
@@ -10258,8 +10258,8 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 
 .hyro-section_careers-grid__nav_item button.is-current {
     color: #fff;
-    border-color: #4548c4;
-    background: #4548c4
+    border-color: #00856f;
+    background: #00856f
 }
 
 .hyro-section_careers-grid__items {
@@ -10329,7 +10329,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     }
 
     .hyro-partial__popup--chip .elementor-widget-button .elementor-button.elementor-size-lg.btn-blue:hover {
-        background: #4548c4;
+        background: #00856f;
         color: #fff
     }
 }
@@ -10337,13 +10337,13 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 .hyro-section_careers-grid__item strong {
     display: block;
     margin: 0 0 24px;
-    color: #161453
+    color: #045446
 }
 
 .hyro-section_careers-grid__item span:first-of-type {
     display: inline-block;
     margin: 0 0 24px;
-    color: #4548c4;
+    color: #00856f;
     border-color: #dedfff;
     background-color: #eef
 }
@@ -10361,7 +10361,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     align-items: center;
     margin-top: auto;
     font-weight: 700;
-    color: #161453
+    color: #045446
 }
 
 .hyro-section_careers-grid__item span:last-of-type svg {
@@ -10378,7 +10378,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 
 .hyro-partial__popup--mid .dialog-close-button .eicon-close {
     font-size: 22px;
-    color: #4548c4
+    color: #00856f
 }
 
 .hyro-partial__popup--banner .dialog-message {
@@ -10414,7 +10414,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 .hyro-partial__popup--chip .dialog-close-button .eicon-close {
-    color: #4548c4
+    color: #00856f
 }
 
 .hyro-partial__popup--chip .dialog-widget-content, .hyro-partial__popup--chip .elementor-top-section {
@@ -10810,7 +10810,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     min-height: 342px;
     padding: 24px;
     border-radius: 8px;
-    color: #161453;
+    color: #045446;
     text-decoration: none;
     background-color: #fff;
     -webkit-box-shadow: 0 20px 40px rgba(21, 23, 80, .05) !important;
@@ -10820,7 +10820,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 .hyro-partial__partner-card:hover {
-    color: #161453;
+    color: #045446;
     text-decoration: none
 }
 
@@ -11248,7 +11248,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     font-weight: 300;
     line-height: 135%;
     letter-spacing: -.005rem;
-    color: #161453
+    color: #045446
 }
 
 .hyro-section__glossary-nav_item a:hover, .hyro-section__glossary-nav_item span:hover {
@@ -11358,7 +11358,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     width: 100%;
     height: 340px;
     border-radius: 10px;
-    border: 2px solid #161453
+    border: 2px solid #045446
 }
 
 @media only screen and (max-width: 1128px) {
@@ -11523,7 +11523,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     left: 0;
     top: calc(50% - 3px);
     border-radius: 50%;
-    background-color: #4548c4
+    background-color: #00856f
 }
 
 .hyro-section__single-report-template-form .elementor-col-50:first-of-type .elementor-widget-image:not(:last-child) {
