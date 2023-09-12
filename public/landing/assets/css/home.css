@@ -8861,7 +8861,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     flex-direction: row;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
-    justify-content: space-between;
+    justify-content: center;
     padding: 44px 0 48px
 }
 
@@ -16509,3 +16509,4 @@ body.elementor-editor-active .elementor-posts--show-thumbnail .elementor-post__t
     cursor: pointer;
     position: relative
 }
+

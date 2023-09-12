@@ -8,7 +8,7 @@
       width: 100%;
       height: 0;
       padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
-      margin-top: 75px;
+      /*margin-top: 75px;*/
       overflow: hidden;
     }
 
@@ -29,6 +29,30 @@
       color: white;
       font-size: 24px;
       z-index: 1;
+    }
+
+    /* Portrait phones and smaller */
+    @media (max-width: 576px) {
+      /* Your CSS here */
+      .video-container {
+        margin-top: 75px;
+      }
+    }
+
+    /* Landscape phones and smaller */
+    @media (max-width: 767px) {
+      /* Your CSS here */
+      .video-container {
+        margin-top: 75px;
+      }
+    }
+
+    /* Portrait tablets and large phones */
+    @media (min-width: 768px) and (max-width: 991px) {
+      /* Your CSS here */
+      .video-container {
+        margin-top: 75px;
+      }
     }
 
   </style>
@@ -186,7 +210,6 @@
               <img decoding="async" width="75" height="50"
                    src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%2075%2050&#39;%3E%3C/svg%3E"
                    class="attachment-large size-large" alt="" title=""
-                   data-lazy-src="https://www.hyro.ai/wp-content/uploads/2022/12/Group-3462-555.svg">
             </div>
           </div>
           <div class="elementor-element elementor-element-d13bdf8 d-h3 m-h2 elementor-widget elementor-widget-heading"

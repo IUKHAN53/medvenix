@@ -1338,7 +1338,7 @@ body {
     --e-global-color-af255e3: #FFFFFF;
     --e-global-color-5c259b5: #000000;
     --e-global-color-c11881f: #F8FBFF;
-    --e-global-color-39892f7: #DCE9E2;
+    --e-global-color-39892f7: #daf0fe;
     --e-global-color-f1f3141: #D5E7FE;
     --e-global-color-9a997aa: #B7D0F2;
     --e-global-color-4b339e4: #8DBBF2;
@@ -5256,7 +5256,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     flex-direction: row;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
-    justify-content: space-between;
+    justify-content: center;
     padding: 44px 0 48px
 }
 

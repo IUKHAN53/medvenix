@@ -3,13 +3,10 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <script id="service-bell-script" src="{{asset('landing/assets/js/main.js')}}" async=""></script>
-  <script type="text/javascript" src="{{asset('landing/assets/js/insight.old.min.js')}}"></script>
-  <script type="text/javascript" async="" src="{{asset('landing/assets/js/insight.min.js')}}"></script>
   <script async="" src="{{asset('landing/assets/js/clarity.js')}}"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>Medvenix</title>
-  <script data-minify="1" type="text/javascript" src="{{asset('landing/assets/js/jquery.min.js')}}" id="jquery-js"
-          defer=""></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
   <script type="text/javascript" src="{{asset('landing/assets/js/lottie.min.js')}}" id="lottie-js"></script>
   <noscript>
     <style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src] {
@@ -17,6 +14,9 @@
       }</style>
   </noscript>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
   @yield('styles')
 </head>
 <body

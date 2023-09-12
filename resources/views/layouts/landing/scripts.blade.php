@@ -1,9 +1,52 @@
-<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-<script src="./assets/js/slick.min.js"></script>
-<script src="./assets/js/swiper.min.js"></script>
-<script type="text/javascript" src="./assets/js/child-theme.min.js"></script>
+<script src="{{asset('landing/assets/js/swiper.min.js')}}"></script>
+<script type="text/javascript" src="{{asset('landing/assets/js/child-theme.min.js')}}"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js"></script>
+<script type="module">
+  jQuery(document).ready(function () {
 
-<script>window.lazyLoadOptions = [{
+
+    $('.slider-for').slick({
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      arrows: false,
+      draggable: false,
+      fade: true,
+      asNavFor: '.slider-nav'
+    });
+    $('.slider-nav').slick({
+      slidesToShow: 3,
+      slidesToScroll: 1,
+      asNavFor: '.slider-for',
+      dots: false,
+      arrows: true,
+      centerMode: true,
+      focusOnSelect: true,
+      centerPadding: '10px',
+      prevArrow: '<span class="icon-angle-left"></span>',
+      nextArrow: '<span class="icon-angle-right"></span>',
+      responsive: [
+        {
+          breakpoint: 450,
+          settings: {
+            dots: false,
+            slidesToShow: 3,
+            centerPadding: '0px',
+          }
+        },
+        {
+          breakpoint: 420,
+          settings: {
+            autoplay: true,
+            dots: false,
+            slidesToShow: 1,
+            centerMode: false,
+          }
+        }
+      ]
+    });
+  })
+
+  window.lazyLoadOptions = [{
     elements_selector: "img[data-lazy-src],.rocket-lazyload",
     data_src: "lazy-src",
     data_srcset: "lazy-srcset",
@@ -73,7 +116,7 @@
   }, !1)
 </script>
 <script data-no-minify="1" async=""
-        src="./Hyro _ Conversational AI for Enterprise_files/lazyload.min.js.download"></script>
+        src="{{asset('landing/assets/js/lazyload.min.js')}}"></script>
 
 <div id="sb-root-1693753882591">
   <style>
@@ -92,12 +135,15 @@
 </div>
 
 <script>
-  function toggleMobileNav() {
-    const navWrapper = document.getElementById('wrapper-navbar')
-    if (navWrapper.classList.contains('is-open--mobile')) {
-      navWrapper.classList.remove('is-open--mobile')
-    } else {
-      navWrapper.classList.add('is-open--mobile')
-    }
-  }
+  // function toggleMobileNav() {
+  //   console.log("Hello")
+  //   const navWrapper = document.getElementById('wrapper-navbar')
+  //
+  //   if (navWrapper.classList.contains('is-open--mobile')) {
+  //     navWrapper.classList.remove('is-open--mobile')
+  //   } else {
+  //     navWrapper.classList.add('is-open--mobile')
+  //   }
+  //   console.log(navWrapper.classList.contains('is-open--mobile'))
+  // }
 </script>
