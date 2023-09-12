@@ -46,14 +46,13 @@
             </div>
             <div class="d-flex w-100 position-relative d-none d-sm-block">
               <video
-                src="./assets/videos/about-us-bg-video.mp4"
+                src="{{asset('landing/assets/videos/about-us-bg-video.mp4')}}"
                 alt=""
                 class="img-fluid position-absolute"
                 style="z-index: 2; top: -100px; right: -100px; width: 100%;border-radius: 2px;"
                 autoplay="" loop="" muted="" playsinline=""></video>
-
               <img
-                src="./assets/img/circle-shape-green.svg"
+                src="{{asset('landing/assets/img/circle-shape-green.svg')}}"
                 class="position-absolute"
                 style="z-index: 1; top: -200px; left: -50px; width: 400px; height: 400px"
                 loading="lazy" alt="" class=" d-none d-sm-block">
