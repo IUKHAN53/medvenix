@@ -79,21 +79,21 @@
             <ul id="menu-footer-social" class="menu">
               <li id="menu-item-156"
                   class="view-icon-only menu-item menu-item-type-custom menu-item-object-custom menu-item-156">
-                <a href="{{$settings->youtube_link}}">
+                <a href="{{$settings->youtube_link ?? '#'}}">
                   <img width="32" height="32" src="{{asset('landing/assets/img/icons/youtube.svg')}}"
                        alt="">
                 </a>
               </li>
               <li id="menu-item-157"
                   class="view-icon-only menu-item menu-item-type-custom menu-item-object-custom menu-item-157">
-                <a href="{{$settings->linkedin_link}}">
+                <a href="{{$settings->linkedin_link ?? '#'}}">
                   <img width="32" height="32" src="{{asset('landing/assets/img/icons/linkedin.svg')}}"
                        alt="">
                 </a>
               </li>
               <li id="menu-item-158"
                   class="view-icon-only menu-item menu-item-type-custom menu-item-object-custom menu-item-158">
-                <a href="{{$settings->twitter_link}}">
+                <a href="{{$settings->twitter_link ?? '#'}}">
                   <img width="32" height="32" src="{{asset('landing/assets/img/icons/twitter.svg')}}"
                        alt="">
                 </a>
