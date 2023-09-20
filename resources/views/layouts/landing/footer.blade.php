@@ -13,6 +13,7 @@
                   class="menu-item menu-item-type-custom menu-item-object-custom menu-item-130">
                 <a href="{{route('book-demo')}}">AI Assistants</a>
               </li>
+            </ul>
           </div>
         </li>
       </ul>
@@ -37,7 +38,7 @@
       <ul class="footer-widgets__block footer-widgets__top--right">
         <li id="text-6" class="widget footer-widgets__top--demo widget_text" style="background: #373a9a">
           <div class="textwidget">
-            <p>Shrink your workload.<br>
+            <p  style="color: white">Shrink your workload.<br>
               Save your workforce.</p>
             <p>
               <a class="btn btn-lg btn-blue btn-primary"
@@ -51,7 +52,7 @@
       <ul class="footer-widgets__block footer-widgets__bottom--left">
         <li id="media_image-2" class="widget  widget_media_image">
           <a href="/">
-            <img width="110" height="50" src="{{asset('landing/assets/img/logo/logo-light.png')}}"
+            <img width="200" height="50" src="{{asset('landing/assets/img/logo/logo-light.png')}}"
                  class="image wp-image-164 attachment-medium size-medium entered" alt="">
           </a>
         </li>

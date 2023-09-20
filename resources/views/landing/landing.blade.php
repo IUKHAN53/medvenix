@@ -4,7 +4,6 @@
   <link rel="stylesheet" href="{{asset('landing/assets/css/custom-home.css')}}">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css'>
-  <link rel="stylesheet" href="./style.css">
   <style>
     .section-project {
       /*padding: 50px 0;*/
@@ -425,9 +424,9 @@
                       <p class="medvenix-sm">
                         Serve customers with instant answers to their most frequently asked questions.
                       </p>
-                      <a href="{{route('about-us')}}" class="btn btn-blue btn-secondary btn-sm">
+                      <button onclick="location.href='{{route('book-demo')}}'" class="btn btn-blue btn-secondary btn-sm">
                         Learn More
-                      </a>
+                      </button>
                     </div>
                     <div class="medvenix-section_skill__carousel__phone_contents">
                       <figure>
@@ -438,7 +437,7 @@
                       <p class="medvenix-sm">
                         Enable patients to find the right provider for their care needs with ease.
                       </p>
-                      <a href="{{route('about-us')}}" class="btn btn-blue btn-secondary btn-sm">
+                      <a href="{{route('book-demo')}}" class="btn btn-blue btn-secondary btn-sm">
                         Learn More
                       </a>
                     </div>
@@ -451,7 +450,7 @@
                       <p class="medvenix-sm">
                         Intercept and speed up site search with instant GPT-powered answers.
                       </p>
-                      <a href="{{route('about-us')}}" class="btn btn-blue btn-secondary btn-sm">
+                      <a href="{{route('book-demo')}}" class="btn btn-blue btn-secondary btn-sm">
                         Learn More
                       </a>
                     </div>
@@ -464,7 +463,7 @@
                       <p class="medvenix-sm">
                         Provide your patients with a frictionless path to instantly track and request Rx refills.
                       </p>
-                      <a href="{{route('about-us')}}" class="btn btn-blue btn-secondary btn-sm">
+                      <a href="{{route('book-demo')}}" class="btn btn-blue btn-secondary btn-sm">
                         Learn More
                       </a>
                     </div>
@@ -477,7 +476,7 @@
                       <p class="medvenix-sm">
                         Automatically deflect customer and employee IT tickets to self-service via SMS.
                       </p>
-                      <a href="{{route('about-us')}}" class="btn btn-blue btn-secondary btn-sm">
+                      <a href="{{route('book-demo')}}" class="btn btn-blue btn-secondary btn-sm">
                         Learn More
                       </a>
                     </div>
@@ -490,7 +489,7 @@
                       <p class="medvenix-sm">
                         Swiftly and accurately route calls to the appropriate point of care.
                       </p>
-                      <a href="{{route('about-us')}}" class="btn btn-blue btn-secondary btn-sm">
+                      <a href="{{route('book-demo')}}" class="btn btn-blue btn-secondary btn-sm">
                         Learn More
                       </a>
                     </div>
@@ -503,7 +502,7 @@
                       <p class="medvenix-sm">
                         Allow customers to self-schedule, reschedule, and cancel appointments.
                       </p>
-                      <a href="{{route('about-us')}}" class="btn btn-blue btn-secondary btn-sm">
+                      <a href="{{route('book-demo')}}" class="btn btn-blue btn-secondary btn-sm">
                         Learn More
                       </a>
                     </div>
