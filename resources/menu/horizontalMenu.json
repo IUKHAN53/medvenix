@@ -17,6 +17,12 @@
       "icon": "menu-icon tf-icons ti ti-id-badge",
       "name": "Manage Team Members",
       "slug": "team-management"
+    },
+    {
+      "url": "site-settings",
+      "icon": "menu-icon tf-icons ti ti-settings",
+      "name": "Site Settings",
+      "slug": "site-settings"
     }
   ]
 }

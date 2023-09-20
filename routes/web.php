@@ -11,13 +11,15 @@ Route::get('/about-us', [LandingController::class, 'aboutUs'])->name('about-us')
 Route::get('/book-demo', [LandingController::class, 'bookDemo'])->name('book-demo');
 
 Route::group(['middleware' => 'auth'], function () {
-//  Route::get('/', [DashboardController::class, 'index'])->name('dashboard');
   Route::get('/home', [DashboardController::class, 'index']);
   Route::get('/users', [UserManagement::class, 'UserManagement'])->name('manage-users');
   Route::resource('/user-list', UserManagement::class);
 
   Route::get('/teams', [TeamMemberController::class, 'list'])->name('manage-teams');
   Route::resource('/teams-list', TeamMemberController::class);
+
+  Route::get('/site-settings', [SiteSettingsController::class, 'index'])->name('site-settings');
+  Route::post('/save-site-settings', [SiteSettingsController::class, 'store'])->name('save-site-settings');
 });
 
 

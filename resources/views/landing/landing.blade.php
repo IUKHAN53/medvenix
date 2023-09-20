@@ -248,7 +248,7 @@
                   </span>
                 </a>
                 <a class=""
-                   href="#psoev5ul2t">
+                   href="#">
                   <svg xmlns="http://www.w3.org/2000/svg" width="25"
                        height="24" viewBox="0 0 25 24" fill="none">
                     <path fill-rule="evenodd" clip-rule="evenodd"
@@ -261,7 +261,7 @@
             </div>
             <div class="d-flex w-100 position-relative d-none d-sm-block">
               <video
-                src="{{asset('landing/assets/videos/landing_hero_video.mp4')}}"
+                src="{{$settings->home_video ?? asset('landing/assets/videos/landing_hero_video.mp4')}}"
                 alt=""
                 class="img-fluid shadow"
                 style="z-index: 2;  width: 100%;border-radius: 30px;opacity: 0.9"

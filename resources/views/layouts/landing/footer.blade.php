@@ -52,7 +52,7 @@
         <li id="media_image-2" class="widget  widget_media_image">
           <a href="/">
             <img width="110" height="50" src="{{asset('landing/assets/img/logo/logo-light.png')}}"
-                 class="image wp-image-164 attachment-medium size-medium entered lazyloaded" alt="">
+                 class="image wp-image-164 attachment-medium size-medium entered" alt="">
           </a>
         </li>
       </ul>
@@ -62,13 +62,13 @@
           <div class="menu-footer-legal-container">
             <ul id="menu-footer-legal-1" class="menu">
               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-152"><a
-                  href="#">Privacy Policy</a></li>
+                  href="{{$settings->privacy_link ?? '#'}}">Privacy Policy</a></li>
               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-153"><a
-                  href="#">Terms of Use</a></li>
+                  href="{{$settings->tos_link ?? '#'}}">Terms of Use</a></li>
               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154"><a
-                  href="#">Cookie Policy</a></li>
+                  href="{{$settings->cookie_policy_link ?? '#'}}">Cookie Policy</a></li>
               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-155"><a
-                  href="#">EULA</a></li>
+                  href="{{$settings->eula_link ?? '#'}}">EULA</a></li>
             </ul>
           </div>
         </li>
@@ -79,21 +79,21 @@
             <ul id="menu-footer-social" class="menu">
               <li id="menu-item-156"
                   class="view-icon-only menu-item menu-item-type-custom menu-item-object-custom menu-item-156">
-                <a href="#">
+                <a href="{{$settings->youtube_link}}">
                   <img width="32" height="32" src="{{asset('landing/assets/img/icons/youtube.svg')}}"
                        alt="">
                 </a>
               </li>
               <li id="menu-item-157"
                   class="view-icon-only menu-item menu-item-type-custom menu-item-object-custom menu-item-157">
-                <a href="#">
+                <a href="{{$settings->linkedin_link}}">
                   <img width="32" height="32" src="{{asset('landing/assets/img/icons/linkedin.svg')}}"
                        alt="">
                 </a>
               </li>
               <li id="menu-item-158"
                   class="view-icon-only menu-item menu-item-type-custom menu-item-object-custom menu-item-158">
-                <a href="#">
+                <a href="{{$settings->twitter_link}}">
                   <img width="32" height="32" src="{{asset('landing/assets/img/icons/twitter.svg')}}"
                        alt="">
                 </a>

@@ -61,7 +61,7 @@
   <div data-elementor-type="wp-page" data-elementor-id="6547" class="elementor elementor-6547">
     <div class="video-container">
       <video autoplay loop muted style="opacity: 0.5">
-        <source src="{{asset('landing/assets/videos/about-us-video.mp4')}}" type="video/mp4">
+        <source src="{{$settings->about_video ?? asset('landing/assets/videos/about-us-video.mp4')}}" type="video/mp4">
       </video>
       <div class="overlay-text">
         <h1 class="d-flex gap-3 align-items-center flex-column flex-sm-row justify-content-center mb-5">
