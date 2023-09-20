@@ -228,7 +228,7 @@
               <h1>
                 Automating tedious tasks with our AI-powered platform
               </h1>
-              <p style="    color: #161453; margin: 0 0 30px">Streamline healthcare workflows, reduce doctor burnout, and prioritize what truly matters – your patients' well-being</p>
+              <p style="    color: #161453; margin: 0 0 30px">Streamline healthcare workflows, reduce doctor burnout, and prioritize what truly matters – your patient's well-being</p>
               <div class="d-flex gap-3 align-items-center">
                 <a
                   class="elementor-button elementor-button-link elementor-size-lg btn-primary btn-blue btn-fill--filled"
