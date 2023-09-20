@@ -27,7 +27,7 @@
                         stroke-linecap="round" stroke-linejoin="round"></path>
                 </svg>
               </a>
-              <ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-6906" role="menu">
+              <ul class="dropdown-menu" style="background-color: transparent !important;" aria-labelledby="menu-item-dropdown-6906" role="menu">
                 <div class="container">
                   <li itemscope="itemscope"
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-67 nav-item column--text-image-block">
@@ -78,7 +78,7 @@
                         stroke-linecap="round" stroke-linejoin="round"></path>
                 </svg>
               </a>
-              <ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-42" role="menu">
+              <ul class="dropdown-menu"  style="background-color: transparent !important;" aria-labelledby="menu-item-dropdown-42" role="menu">
                 <div class="container">
                   <li itemscope="itemscope"
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-116 nav-item column--simple-list">

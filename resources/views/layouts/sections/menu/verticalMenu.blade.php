@@ -5,9 +5,33 @@
 <aside id="layout-menu" class="layout-menu menu-vertical menu bg-menu-theme">
 
   <!-- ! Hide app brand if navbar-full -->
+  {{--  @if(!isset($navbarFull))--}}
+  {{--      <img src="{{asset('assets/img/logo.png')}}" alt="" style="">--}}
+  {{--    <hr>--}}
+  {{--  @endif--}}
+
   @if(!isset($navbarFull))
-      <img src="{{asset('assets/img/logo.png')}}" alt="" style="width: 250px !important; height: 200px !important">
-    <hr>
+    <div class="app-brand demo">
+      <a href="{{url('/')}}" class="app-brand-link">
+        {{--        <span class="app-brand-logo demo">--}}
+        {{--          @include('_partials.macros',["height"=>20])--}}
+        {{--        </span>--}}
+        <span class="app-brand-text demo menu-text fw-bold">
+          <img
+            src="{{asset('assets/img/logo-light.png')}}"
+            alt=""
+            style="width: 150px;"
+            data-app-light-img="logo.png"
+            data-app-dark-img="logo-light.png"
+          >
+        </span>
+      </a>
+
+      <a href="javascript:void(0);" class="layout-menu-toggle menu-link text-large ms-auto">
+        <i class="ti menu-toggle-icon d-none d-xl-block ti-sm align-middle"></i>
+        <i class="ti ti-x d-block d-xl-none ti-sm align-middle"></i>
+      </a>
+    </div>
   @endif
 
 

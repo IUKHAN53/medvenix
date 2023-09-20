@@ -4085,7 +4085,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 #wrapper-navbar .navbar-brand img, #wrapper-navbar .navbar-brand--lottie {
-    width: 100px;
+    width: 150px;
     /*height: 29px*/
 }
 
@@ -4339,7 +4339,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 
 #wrapper-navbar .navbar-nav > .menu-item > .nav-link:not(.btn) {
     padding: 0;
-    font-size: .8rem;
+    font-size: 1rem;
     color: #161453;
     line-height: 1;
     -webkit-transition: color .2s;

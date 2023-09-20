@@ -7192,7 +7192,7 @@ h1, h2, h3, h4, h6, p {
 }
 
 .elementor-element .elementor-post__text h1, .elementor-element h1, .elementor-element span h1, .elementor-element strong h1, .elementor-element.elementor-widget-heading h1, body .elementor-post__text h1, body h1, body span h1, body strong h1, body.elementor-widget-heading h1 {
-    font-size: 3.815rem;
+    font-size: 2.815rem;
     line-height: 110%
 }
 
@@ -7692,7 +7692,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 #wrapper-navbar .navbar-brand img, #wrapper-navbar .navbar-brand--lottie {
-    width: 100px;
+    width: 150px;
     /*height: 29px*/
 }
 
@@ -7946,7 +7946,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 
 #wrapper-navbar .navbar-nav > .menu-item > .nav-link:not(.btn) {
     padding: 0;
-    font-size: .8rem;
+    font-size: 1rem;
     color: #161453;
     line-height: 1;
     -webkit-transition: color .2s;
@@ -11671,7 +11671,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
         padding: 60px 0 48px
     }
 
-    .hyro-section_skill__carousel {
+    .medvenix-section_skill__carousel {
         width: calc(100% + 48px);
         margin: 0 -24px
     }
@@ -11693,7 +11693,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     margin: 0 0 36px
 }
 
-.hyro-section_skill__carousel__phone {
+.medvenix-section_skill__carousel__phone {
     position: absolute;
     top: 0;
     left: 50%;
@@ -11703,13 +11703,13 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     pointer-events: none
 }
 
-.hyro-section_skill__carousel__phone:after, .hyro-section_skill__carousel__phone:before {
+.medvenix-section_skill__carousel__phone:after, .medvenix-section_skill__carousel__phone:before {
     content: '';
     display: block;
     position: absolute
 }
 
-.hyro-section_skill__carousel__phone:before {
+.medvenix-section_skill__carousel__phone:before {
     top: 0;
     left: 50%;
     width: 260px;
@@ -11723,17 +11723,17 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 @media only screen and (max-width: 782px) {
-    .hyro-section_skill__carousel__phone {
+    .medvenix-section_skill__carousel__phone {
         width: 252px
     }
 
-    .hyro-section_skill__carousel__phone:before {
+    .medvenix-section_skill__carousel__phone:before {
         width: 180px;
         height: 317px
     }
 }
 
-.hyro-section_skill__carousel__phone:after {
+.medvenix-section_skill__carousel__phone:after {
     height: 1px;
     left: 0;
     right: 0;
@@ -11741,12 +11741,12 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     background-color: #cac9d9
 }
 
-.hyro-section_skill__carousel__phone_contents {
+.medvenix-section_skill__carousel__phone_contents {
     width: 100%;
-    max-width: 202px;
-    position: absolute;
-    top: 60px;
-    left: calc(50% - (202px / 2));
+    /*max-width: 202px;*/
+    position: relative;
+    /*top: 60px;*/
+    /*left: calc(50% - (202px / 2));*/
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -11759,7 +11759,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     align-items: center
 }
 
-.hyro-section_skill__carousel__phone_contents figure {
+.medvenix-section_skill__carousel__phone_contents figure {
     position: relative;
     width: 160px;
     height: 160px;
@@ -11768,7 +11768,7 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     background: #f2f5fc
 }
 
-.hyro-section_skill__carousel__phone_contents figure img {
+.medvenix-section_skill__carousel__phone_contents figure img {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -11778,28 +11778,28 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 @media only screen and (max-width: 782px) {
-    .hyro-section_skill__carousel__phone_contents {
+    .medvenix-section_skill__carousel__phone_contents {
         max-width: 140px;
         top: 42px;
         left: calc(50% - (140px / 2))
     }
 
-    .hyro-section_skill__carousel__phone_contents figure {
+    .medvenix-section_skill__carousel__phone_contents figure {
         width: 110px;
         height: 110px;
         margin: 0 auto 20px !important
     }
 
-    .hyro-section_skill__carousel__phone_contents figure img {
+    .medvenix-section_skill__carousel__phone_contents figure img {
         max-width: 150px
     }
 }
 
-.hyro-section_skill__carousel__phone_contents p, .hyro-section_skill__carousel__phone_contents span {
+.medvenix-section_skill__carousel__phone_contents p, .medvenix-section_skill__carousel__phone_contents span {
     text-align: center
 }
 
-.hyro-section_skill__carousel__phone_contents span {
+.medvenix-section_skill__carousel__phone_contents span {
     display: block;
     margin: 0 0 6px;
     font-weight: 600;
@@ -11808,45 +11808,45 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 @media only screen and (max-width: 782px) {
-    .hyro-section_skill__carousel__phone_contents span {
+    .medvenix-section_skill__carousel__phone_contents span {
         margin: 0 0 4px;
         font-size: .86rem
     }
 }
 
-.hyro-section_skill__carousel__phone_contents p {
+.medvenix-section_skill__carousel__phone_contents p {
     margin: 0 0 22px
 }
 
-.hyro-section_skill__carousel__phone_contents .btn {
+.medvenix-section_skill__carousel__phone_contents .btn {
     pointer-events: auto
 }
 
-.hyro-section_skill__carousel__phone_contents .btn, .hyro-section_skill__carousel__phone_contents img, .hyro-section_skill__carousel__phone_contents p, .hyro-section_skill__carousel__phone_contents span {
+.medvenix-section_skill__carousel__phone_contents .btn, .medvenix-section_skill__carousel__phone_contents img, .medvenix-section_skill__carousel__phone_contents p, .medvenix-section_skill__carousel__phone_contents span {
     -webkit-transition: .3s;
     transition: .3s all
 }
 
-.hyro-section_skill__carousel__phone_contents.is-changing .btn, .hyro-section_skill__carousel__phone_contents.is-changing p, .hyro-section_skill__carousel__phone_contents.is-changing span {
+.medvenix-section_skill__carousel__phone_contents.is-changing .btn, .medvenix-section_skill__carousel__phone_contents.is-changing p, .medvenix-section_skill__carousel__phone_contents.is-changing span {
     opacity: 0
 }
 
-.hyro-section_skill__carousel__phone_contents.is-changing img {
+.medvenix-section_skill__carousel__phone_contents.is-changing img {
     opacity: 0;
     -webkit-transform: scale(.6) translate(-50%, -50%);
     transform: scale(.6) translate(-50%, -50%)
 }
 
-.hyro-section_skill__carousel__items {
+.medvenix-section_skill__carousel__items {
     position: relative;
     padding: 60px 0 195px
 }
 
-.hyro-section_skill__carousel__items_wrap {
+.medvenix-section_skill__carousel__items_wrap {
     position: relative
 }
 
-.hyro-section_skill__carousel__items .slick-dots {
+.medvenix-section_skill__carousel__items .slick-dots {
     width: 100%;
     position: absolute;
     bottom: -182px;
@@ -11866,12 +11866,12 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     margin: 0
 }
 
-.hyro-section_skill__carousel__items .slick-dots li {
+.medvenix-section_skill__carousel__items .slick-dots li {
     margin: 0 4px;
     line-height: 0
 }
 
-.hyro-section_skill__carousel__items .slick-dots li button {
+.medvenix-section_skill__carousel__items .slick-dots li button {
     padding: 0;
     margin: 0;
     border-radius: 0;
@@ -11890,15 +11890,15 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     transition: .2s all
 }
 
-.hyro-section_skill__carousel__items .slick-dots li button:hover {
+.medvenix-section_skill__carousel__items .slick-dots li button:hover {
     background: #7583f7
 }
 
-.hyro-section_skill__carousel__items .slick-dots li.slick-active button {
+.medvenix-section_skill__carousel__items .slick-dots li.slick-active button {
     background: #7583f7
 }
 
-.hyro-section_skill__carousel__item {
+.medvenix-section_skill__carousel__item {
     width: 160px;
     margin: 0 35px;
     position: relative;
@@ -11906,64 +11906,64 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 @media only screen and (max-width: 782px) {
-    .hyro-section_skill__carousel__phone_contents p {
+    .medvenix-section_skill__carousel__phone_contents p {
         margin: 0 0 16px;
         font-size: .56rem
     }
 
-    .hyro-section_skill__carousel__phone_contents .btn.btn-sm {
+    .medvenix-section_skill__carousel__phone_contents .btn.btn-sm {
         padding: 8px 16px;
         font-size: .56rem
     }
 
-    .hyro-section_skill__carousel__items {
+    .medvenix-section_skill__carousel__items {
         padding: 42px 0 146px
     }
 
-    .hyro-section_skill__carousel__items .slick-dots {
+    .medvenix-section_skill__carousel__items .slick-dots {
         bottom: -218px
     }
 
-    .hyro-section_skill__carousel__item {
+    .medvenix-section_skill__carousel__item {
         width: 110px;
         margin: 0 5px
     }
 }
 
 @media only screen and (min-width: 768px) {
-    .hyro-section_skill__carousel__item {
+    .medvenix-section_skill__carousel__item {
         -webkit-transition: .3s;
         transition: .3s all
     }
 
-    .hyro-section_skill__carousel__item:hover {
+    .medvenix-section_skill__carousel__item:hover {
         opacity: .7
     }
 }
 
-.hyro-section_skill__carousel__item p, .hyro-section_skill__carousel__item span {
+.medvenix-section_skill__carousel__item p, .medvenix-section_skill__carousel__item span {
     max-width: 160px;
     display: block;
     margin: 0 auto;
     text-align: center
 }
 
-.hyro-section_skill__carousel__item figure {
+.medvenix-section_skill__carousel__item figure {
     width: 160px;
     height: 160px;
     margin: 0 auto 18px !important
 }
 
-.hyro-section_skill__carousel__item figure svg {
+.medvenix-section_skill__carousel__item figure svg {
     width: 100%;
     height: 100%
 }
 
-.hyro-section_skill__carousel__item span {
+.medvenix-section_skill__carousel__item span {
     color: #a6a5c0
 }
 
-.hyro-section_skill__carousel__channels {
+.medvenix-section_skill__carousel__channels {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -11981,16 +11981,16 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 @media only screen and (max-width: 782px) {
-    .hyro-section_skill__carousel__item figure {
+    .medvenix-section_skill__carousel__item figure {
         width: 110px;
         height: 110px
     }
 
-    .hyro-section_skill__carousel__item span {
+    .medvenix-section_skill__carousel__item span {
         display: none
     }
 
-    .hyro-section_skill__carousel__channels {
+    .medvenix-section_skill__carousel__channels {
         max-width: 195px;
         margin: 0 auto;
         padding: 22px 0 40px;
@@ -11999,18 +11999,18 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
     }
 }
 
-.hyro-section_skill__carousel__channel {
+.medvenix-section_skill__carousel__channel {
     width: 100%;
     max-width: 78px;
     margin: 0 7px
 }
 
-.hyro-section_skill__carousel__channel figure, .hyro-section_skill__carousel__channel span {
+.medvenix-section_skill__carousel__channel figure, .medvenix-section_skill__carousel__channel span {
     -webkit-transition: .3s;
     transition: .3s all
 }
 
-.hyro-section_skill__carousel__channel figure {
+.medvenix-section_skill__carousel__channel figure {
     width: 61px;
     height: 61px;
     display: -webkit-box;
@@ -12027,59 +12027,59 @@ input, input:active, input:focus, input:hover, select, select:active, select:foc
 }
 
 @media only screen and (max-width: 782px) {
-    .hyro-section_skill__carousel__channel {
+    .medvenix-section_skill__carousel__channel {
         max-width: 54px;
         margin: 0 5px 12px
     }
 
-    .hyro-section_skill__carousel__channel figure {
+    .medvenix-section_skill__carousel__channel figure {
         width: 42px;
         height: 42px;
         margin: 0 auto 6px !important
     }
 
-    .hyro-section_skill__carousel__channel figure svg {
+    .medvenix-section_skill__carousel__channel figure svg {
         max-width: 18px
     }
 }
 
-.hyro-section_skill__carousel__channel span {
+.medvenix-section_skill__carousel__channel span {
     display: block;
     margin: 0 auto;
     text-align: center
 }
 
 @media only screen and (max-width: 936px) {
-    .hyro-section_skill__carousel__channel span {
+    .medvenix-section_skill__carousel__channel span {
         font-size: .56rem
     }
 
-    .hyro-section__single-report-template-hero .elementor-col-50:first-of-type .elementor-widget-text-editor p br {
+    .medvenix-section__single-report-template-hero .elementor-col-50:first-of-type .elementor-widget-text-editor p br {
         display: none
     }
 }
 
-.hyro-section_skill__carousel__channel:not(.is-active) figure {
+.medvenix-section_skill__carousel__channel:not(.is-active) figure {
     background-color: #dbdfe9
 }
 
-.hyro-section_skill__carousel__channel:not(.is-active) figure svg [stroke="#4548c4"] {
+.medvenix-section_skill__carousel__channel:not(.is-active) figure svg [stroke="#4548c4"] {
     stroke: #a6a5c0
 }
 
-.hyro-section_skill__carousel__channel:not(.is-active) figure svg [fill="#4548c4"] {
+.medvenix-section_skill__carousel__channel:not(.is-active) figure svg [fill="#4548c4"] {
     fill: #a6a5c0
 }
 
-.hyro-section_skill__carousel__channel:not(.is-active) span {
+.medvenix-section_skill__carousel__channel:not(.is-active) span {
     color: #dbdfe9
 }
 
-.hyro-section_skill__carousel__channel.is-active figure {
+.medvenix-section_skill__carousel__channel.is-active figure {
     background-color: #a7aaf8
 }
 
-.hyro-section_skill__carousel__channel.is-active span {
+.medvenix-section_skill__carousel__channel.is-active span {
     color: #3f3f66
 }
 

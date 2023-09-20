@@ -33,7 +33,13 @@
           <div class="card-body">
             <!-- Logo -->
             <div class="app-brand justify-content-center mb-4 mt-2">
-              <img src="{{asset('assets/img/logo.png')}}" alt="" style="width: 300px; height: 200px">
+              <img
+                src="{{asset('assets/img/logo.png')}}"
+                alt=""
+                style="width: 250px"
+                data-app-light-img="logo.png"
+                data-app-dark-img="logo-light.png"
+              >
             </div>
             <!-- /Logo -->
             <h4 class="mb-1 pt-2">Welcome to {{config('variables.templateName')}}! 👋</h4>
@@ -54,9 +60,9 @@
               <div class="mb-3 form-password-toggle">
                 <div class="d-flex justify-content-between">
                   <label class="form-label" for="password">Password</label>
-                  <a href="javascript:void(0);">
-                    <small>Forgot Password?</small>
-                  </a>
+{{--                  <a href="javascript:void(0);">--}}
+{{--                    <small>Forgot Password?</small>--}}
+{{--                  </a>--}}
                 </div>
                 <div class="input-group input-group-merge">
                   <input type="password" id="password"

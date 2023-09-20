@@ -51,7 +51,7 @@
       <ul class="footer-widgets__block footer-widgets__bottom--left">
         <li id="media_image-2" class="widget  widget_media_image">
           <a href="/">
-            <img width="110" height="50" src="{{asset('landing/assets/img/logo.png')}}"
+            <img width="110" height="50" src="{{asset('landing/assets/img/logo/logo-light.png')}}"
                  class="image wp-image-164 attachment-medium size-medium entered lazyloaded" alt="">
           </a>
         </li>
@@ -80,21 +80,21 @@
               <li id="menu-item-156"
                   class="view-icon-only menu-item menu-item-type-custom menu-item-object-custom menu-item-156">
                 <a href="#">
-                  <img width="32" height="32" src="https://www.hyro.ai/wp-content/uploads/2022/12/Mask-group-1-1.svg"
+                  <img width="32" height="32" src="{{asset('landing/assets/img/icons/youtube.svg')}}"
                        alt="">
                 </a>
               </li>
               <li id="menu-item-157"
                   class="view-icon-only menu-item menu-item-type-custom menu-item-object-custom menu-item-157">
                 <a href="#">
-                  <img width="32" height="32" src="https://www.hyro.ai/wp-content/uploads/2022/12/Mask-group-2.svg"
+                  <img width="32" height="32" src="{{asset('landing/assets/img/icons/linkedin.svg')}}"
                        alt="">
                 </a>
               </li>
               <li id="menu-item-158"
                   class="view-icon-only menu-item menu-item-type-custom menu-item-object-custom menu-item-158">
                 <a href="#">
-                  <img width="32" height="32" src="https://www.hyro.ai/wp-content/uploads/2022/12/Mask-group-3.svg"
+                  <img width="32" height="32" src="{{asset('landing/assets/img/icons/twitter.svg')}}"
                        alt="">
                 </a>
               </li>

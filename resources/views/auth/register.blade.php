@@ -33,7 +33,13 @@
           <div class="card-body">
             <!-- Logo -->
             <div class="app-brand justify-content-center mb-4 mt-2">
-              <img src="{{asset('assets/img/logo.png')}}" alt="" style="width: 300px; height: 200px">
+              <img
+                src="{{asset('assets/img/logo.png')}}"
+                alt=""
+                style="width: 250px"
+                data-app-light-img="logo.png"
+                data-app-dark-img="logo-light.png"
+              >
             </div>
             <!-- /Logo -->
             <h4 class="mb-1 pt-2">Adventure starts here 🚀</h4>
