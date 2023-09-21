@@ -1,4 +1,4 @@
-<div id="wrapper-navbar" style="; margin-top: 20px">
+<div id="wrapper-navbar" style="margin-top: 20px">
   <a class="skip-link sr-only sr-only-focusable" href="#content">Skip to content</a>
   <nav class="navbar navbar-expand-md navbar-dark bg-primary" >
     <div class="container">

@@ -102,17 +102,19 @@
 
     .project-screen .project-detail {
       position: absolute;
-      left: 0;
+      left: 14px;
+      top: 30px;
       right: 0;
       /*width: 280px;*/
       /*height: 461px;*/
       border-radius: 50px 50px 0 0;
-      width: 270px;
-      height: 460px;
-      background: linear-gradient(0deg, #edf5ff 0, #fff 100%);
+      width: 250px;
+      height: 430px;
+      /*background: linear-gradient(0deg, #edf5ff 0, #fff 100%);*/
       /* margin: 32px auto 0; */
-      /* z-index: -1;*/
-      padding: 30px;
+      z-index: 2;
+      /*margin: 20px;*/
+      /*padding: 30px;*/
     }
 
     .project-screen .project-detail .project > div {
@@ -129,7 +131,7 @@
       background-repeat: no-repeat;
       /*background-color: #fff;*/
       /*transform: translate(-50%);*/
-      /*z-index: 99;*/
+      z-index: 1;
     }
 
     .project-screen .project {
@@ -160,16 +162,16 @@
       margin: 0;
     }
 
-    .project-detail .slick-dots li {
+    .slick-dots li {
       margin: 0 4px;
       line-height: 0;
     }
 
-    .project-detail .slick-dots li.slick-active button {
+    .slick-dots li.slick-active button {
       background-color: #373a9a;
     }
 
-    .project-detail .slick-dots li button {
+    .slick-dots li button {
       padding: 0;
       margin: 0;
       border-radius: 0;
@@ -195,25 +197,22 @@
     }
 
     .medvenix-section_skill__carousel__phone_contents {
-      margin-top: 20px;
+      /*width: 297px;*/
+      height: 430px;
+      padding: 30px;
+      width: 100%;
       display: flex !important;
       flex-direction: column;
       justify-content: center;
       align-items: center;
+      background: linear-gradient(0deg, #edf5ff 0, #fff 100%);
+      border-top-left-radius: 30px;
+      border-top-right-radius: 30px;
     }
 
-    /*.slick-dots li button:before {*/
-    /*  content: "•";  !* Unicode bullet symbol *!*/
-    /*  font-size: 24px;*/
-    /*  line-height: 15px;*/
-    /*  opacity: .25;*/
-    /*  color: black;*/
-    /*}*/
-
-    /*.slick-dots li.slick-active button:before {*/
-    /*  opacity: .75;*/
-    /*  color: black;*/
-    /*}*/
+    .section_skill__carousel__phone_contents a {
+      z-index: 5 !important;
+    }
   </style>
 @endsection
 @section('content')
@@ -227,7 +226,8 @@
               <h1>
                 Automating tedious tasks with our AI-powered platform
               </h1>
-              <p style="    color: #161453; margin: 0 0 30px">Streamline healthcare workflows, reduce doctor burnout, and prioritize what truly matters – your patient's well-being</p>
+              <p style="    color: #161453; margin: 0 0 30px">Streamline healthcare workflows, reduce doctor burnout,
+                and prioritize what truly matters – your patient's well-being</p>
               <div class="d-flex gap-3 align-items-center">
                 <a
                   class="elementor-button elementor-button-link elementor-size-lg btn-primary btn-blue btn-fill--filled"
@@ -265,11 +265,11 @@
                 class="img-fluid shadow"
                 style="z-index: 2;  width: 100%;border-radius: 30px;opacity: 0.9"
                 autoplay="" loop="" muted="" playsinline=""></video>
-{{--              <img--}}
-{{--                src="{{asset('landing/assets/img/circle-shape-green.svg')}}"--}}
-{{--                class="position-absolute"--}}
-{{--                style="z-index: 1; top: -200px; left: -50px; width: 400px; height: 400px"--}}
-{{--                loading="lazy" alt="" class=" d-none d-sm-block">--}}
+              {{--              <img--}}
+              {{--                src="{{asset('landing/assets/img/circle-shape-green.svg')}}"--}}
+              {{--                class="position-absolute"--}}
+              {{--                style="z-index: 1; top: -200px; left: -50px; width: 400px; height: 400px"--}}
+              {{--                loading="lazy" alt="" class=" d-none d-sm-block">--}}
             </div>
           </div>
           <section
@@ -424,7 +424,100 @@
                       <p class="medvenix-sm">
                         Serve customers with instant answers to their most frequently asked questions.
                       </p>
-                      <button onclick="location.href='{{route('book-demo')}}'" class="btn btn-blue btn-secondary btn-sm">
+                      <button onclick="location.href='{{route('book-demo')}}'"
+                              class="btn btn-blue btn-secondary btn-sm">
+                        Learn More
+                      </button>
+                    </div>
+                    <div class="medvenix-section_skill__carousel__phone_contents">
+                      <figure>
+                        <img width="530" height="320" src="{{asset('landing/assets/img/apps/inner-slider/2.png')}}"
+                             alt="">
+                      </figure>
+                      <span>Physician Search</span>
+                      <p class="medvenix-sm">
+                        Enable patients to find the right provider for their care needs with ease.
+                      </p>
+                      <a href="{{route('book-demo')}}" class="btn btn-blue btn-secondary btn-sm">
+                        Learn More
+                      </a>
+                    </div>
+                    <div class="medvenix-section_skill__carousel__phone_contents">
+                      <figure>
+                        <img width="530" height="320" src="{{asset('landing/assets/img/apps/inner-slider/3.png')}}"
+                             alt="">
+                      </figure>
+                      <span>Spot™ GPT-Powered Search</span>
+                      <p class="medvenix-sm">
+                        Intercept and speed up site search with instant GPT-powered answers.
+                      </p>
+                      <a href="{{route('book-demo')}}" class="btn btn-blue btn-secondary btn-sm">
+                        Learn More
+                      </a>
+                    </div>
+                    <div class="medvenix-section_skill__carousel__phone_contents">
+                      <figure>
+                        <img width="530" height="320" src="{{asset('landing/assets/img/apps/inner-slider/4.png')}}"
+                             alt="">
+                      </figure>
+                      <span>Rx Management</span>
+                      <p class="medvenix-sm">
+                        Provide your patients with a frictionless path to instantly track and request Rx refills.
+                      </p>
+                      <a href="{{route('book-demo')}}" class="btn btn-blue btn-secondary btn-sm">
+                        Learn More
+                      </a>
+                    </div>
+                    <div class="medvenix-section_skill__carousel__phone_contents">
+                      <figure>
+                        <img width="530" height="320" src="{{asset('landing/assets/img/apps/inner-slider/5.png')}}"
+                             alt="">
+                      </figure>
+                      <span>IT Help Desk</span>
+                      <p class="medvenix-sm">
+                        Automatically deflect customer and employee IT tickets to self-service via SMS.
+                      </p>
+                      <a href="{{route('book-demo')}}" class="btn btn-blue btn-secondary btn-sm">
+                        Learn More
+                      </a>
+                    </div>
+                    <div class="medvenix-section_skill__carousel__phone_contents">
+                      <figure>
+                        <img width="530" height="320" src="{{asset('landing/assets/img/apps/inner-slider/6.png')}}"
+                             alt="">
+                      </figure>
+                      <span>Smart Routing</span>
+                      <p class="medvenix-sm">
+                        Swiftly and accurately route calls to the appropriate point of care.
+                      </p>
+                      <a href="{{route('book-demo')}}" class="btn btn-blue btn-secondary btn-sm">
+                        Learn More
+                      </a>
+                    </div>
+                    <div class="medvenix-section_skill__carousel__phone_contents">
+                      <figure>
+                        <img width="530" height="320" src="{{asset('landing/assets/img/apps/inner-slider/7.png')}}"
+                             alt="">
+                      </figure>
+                      <span>Scheduling <br>Management</span>
+                      <p class="medvenix-sm">
+                        Allow customers to self-schedule, reschedule, and cancel appointments.
+                      </p>
+                      <a href="{{route('book-demo')}}" class="btn btn-blue btn-secondary btn-sm">
+                        Learn More
+                      </a>
+                    </div>
+                    <div class="medvenix-section_skill__carousel__phone_contents">
+                      <figure>
+                        <img width="530" height="320" src="{{asset('landing/assets/img/apps/inner-slider/1.png')}}"
+                             alt="">
+                      </figure>
+                      <span>FAQ Resolution</span>
+                      <p class="medvenix-sm">
+                        Serve customers with instant answers to their most frequently asked questions.
+                      </p>
+                      <button onclick="location.href='{{route('book-demo')}}'"
+                              class="btn btn-blue btn-secondary btn-sm">
                         Learn More
                       </button>
                     </div>
@@ -507,6 +600,37 @@
                       </a>
                     </div>
                   </div>
+                  {{--Slick Dots--}}
+                  <ul class="slick-dots" style="" role="tablist">
+                    <li class="slick-active" aria-hidden="true" role="presentation" aria-selected="true"
+                        aria-controls="navigation00" id="slick-slide00">
+                      <button type="button" data-role="none" role="button" tabindex="0">1</button>
+                    </li>
+                    <li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation01"
+                        id="slick-slide01" class="">
+                      <button type="button" data-role="none" role="button" tabindex="0">2</button>
+                    </li>
+                    <li aria-hidden="false" role="presentation" aria-selected="false" aria-controls="navigation02"
+                        id="slick-slide02">
+                      <button type="button" data-role="none" role="button" tabindex="0">3</button>
+                    </li>
+                    <li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation03"
+                        id="slick-slide03" class="">
+                      <button type="button" data-role="none" role="button" tabindex="0">4</button>
+                    </li>
+                    <li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation04"
+                        id="slick-slide04" class="">
+                      <button type="button" data-role="none" role="button" tabindex="0">5</button>
+                    </li>
+                    <li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation05"
+                        id="slick-slide05" class="">
+                      <button type="button" data-role="none" role="button" tabindex="0">6</button>
+                    </li>
+                    <li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation06"
+                        id="slick-slide06" class="">
+                      <button type="button" data-role="none" role="button" tabindex="0">7</button>
+                    </li>
+                  </ul>
                   <div class="screen-frame"></div>
                 </div>
               </div>
@@ -631,15 +755,27 @@
   </div>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js'></script>
   <script>
-    let project_detail = $(".project-detail").slick({
+    let project_detail = $(".project-detail").on('init', function (event, slick) {
+      $('.project-detail .slick-dots li').slice(7).remove();
+    }).on('beforeChange', function(event, slick, currentSlide, nextSlide){
+      let dotToActivate = nextSlide % 7;
+      $('.slick-dots li').removeClass('slick-active');
+      $(`#slick-slide0`+dotToActivate).addClass('slick-active');
+    }).slick({
       slidesToShow: 1,
       arrows: false,
       asNavFor: '.project-strip',
       autoplay: true,
       autoplaySpeed: 3000,
-      dots: true,
+      dots: false,
       clone: true
     });
+
+    $('.slick-dots li button').on('click', function () {
+      let dotToActivate = $(this).parent().attr('id').slice(-1);
+      project_detail.slick('slickGoTo', dotToActivate);
+    });
+
     let channel = $('#channel li');
     let activeChannels = {
       1: ['#call_center', '#sms', '#website'],
@@ -678,22 +814,19 @@
     });
 
     let strip = $('.project-strip').slick({
-      slidesToShow: 9,
+      slidesToShow: 7,
       slidesToScroll: 1,
       arrows: false,
       asNavFor: '.project-detail',
       dots: false,
       infinite: true,
-      centerMode: false,
+      centerMode: true,
       focusOnSelect: true,
     });
 
-    strip.on('afterChange', function (event, slick, currentSlide) {
-      if (currentSlide >= 6) {
-        let number = currentSlide - 6;
-        console.log(number)
-        project_detail.slick('slickGoTo', number);
-      }
-    });
+    // strip.on('init', function(event, slick){
+    //   $('.project-detail .slick-dots li').slice(7).remove();
+    // });
+
   </script>
 @endsection
