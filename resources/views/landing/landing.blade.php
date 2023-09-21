@@ -648,7 +648,7 @@
                   </figure>
                   <span class="medvenix-sm">Call Center</span>
                 </li>
-                <li class="medvenix-section_skill__carousel__channel" id="sms">
+                <li class="medvenix-section_skill__carousel__channel is-active" id="sms">
                   <figure>
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="31" viewBox="0 0 30 31" fill="none">
                       <g clip-path="url(#clip0_988_9122)">
@@ -678,7 +678,7 @@
                   </figure>
                   <span class="medvenix-sm">SMS</span>
                 </li>
-                <li class="medvenix-section_skill__carousel__channel" id="website">
+                <li class="medvenix-section_skill__carousel__channel is-active" id="website">
                   <figure>
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="31" viewBox="0 0 30 31" fill="none">
                       <g clip-path="url(#clip0_988_9137)">
@@ -797,6 +797,10 @@
       let itemSelector = $(item);
       itemSelector.removeClass("is-active")
     })
+
+    $('#call_center').addClass('is-active')
+    $('#sms').addClass('is-active')
+    $('#website').addClass('is-active')
 
     project_detail.on('afterChange', function (event, slick, currentSlide) {
       let slideNumber = currentSlide + 1;
