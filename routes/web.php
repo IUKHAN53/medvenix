@@ -11,7 +11,7 @@ Route::get('/about-us', [LandingController::class, 'aboutUs'])->name('about-us')
 Route::get('/book-demo', [LandingController::class, 'bookDemo'])->name('book-demo');
 
 Route::group(['middleware' => 'auth'], function () {
-  Route::get('/home', [DashboardController::class, 'index']);
+  Route::get('/home', [DashboardController::class, 'index'])->name('home');
   Route::get('/users', [UserManagement::class, 'UserManagement'])->name('manage-users');
   Route::resource('/user-list', UserManagement::class);
 

@@ -12,18 +12,18 @@
         <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6da175d"
              data-id="6da175d" data-element_type="column">
           <div class="elementor-widget-wrap elementor-element-populated">
-            <div class="elementor-element elementor-element-1f3b2b3 elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image"
-                 data-id="1f3b2b3" data-element_type="widget" data-widget_type="image.default">
-              <img decoding="async" width="261" height="133"
-                   src="{{asset('landing/assets/img/book-now-svg.svg')}}" alt="">
-            </div>
-            <div class="elementor-element elementor-element-8799aec elementor-hidden-desktop elementor-widget elementor-widget-image"
-                 data-id="8799aec" data-element_type="widget" data-widget_type="image.default">
-              <div class="elementor-widget-container">
-                <img decoding="async" width="135" height="101"
-                     src="{{asset('landing/assets/img/book-now-svg-mobile.svg')}}" alt="">
-              </div>
-            </div>
+{{--            <div class="elementor-element elementor-element-1f3b2b3 elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image"--}}
+{{--                 data-id="1f3b2b3" data-element_type="widget" data-widget_type="image.default">--}}
+{{--              <img decoding="async" width="261" height="133"--}}
+{{--                   src="{{asset('landing/assets/img/book-now-svg.svg')}}" alt="">--}}
+{{--            </div>--}}
+{{--            <div class="elementor-element elementor-element-8799aec elementor-hidden-desktop elementor-widget elementor-widget-image"--}}
+{{--                 data-id="8799aec" data-element_type="widget" data-widget_type="image.default">--}}
+{{--              <div class="elementor-widget-container">--}}
+{{--                <img decoding="async" width="135" height="101"--}}
+{{--                     src="{{asset('landing/assets/img/book-now-svg-mobile.svg')}}" alt="">--}}
+{{--              </div>--}}
+{{--            </div>--}}
             <section
               class="elementor-section elementor-inner-section elementor-element elementor-element-134684a elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default"
               data-id="134684a" data-element_type="section">
@@ -118,9 +118,7 @@
                             </div>
 
                             <div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
-                              <button type="submit"
-                                      class="btn btn-primary btn-lg btn-pink btn-fill--filled elementor-button elementor-size-sm"
-                                      id="button-RequestedDemo-general">
+                              <button type="submit" class="btn btn-primary btn-blue btn-lg w-100">
                                 Let's Talk
                               </button>
                             </div>

@@ -1,13 +1,12 @@
-<div id="wrapper-navbar" style="margin-top: 20px">
+<div id="wrapper-navbar" style="margin-top: 12px">
   <a class="skip-link sr-only sr-only-focusable" href="#content">Skip to content</a>
   <nav class="navbar navbar-expand-md navbar-dark bg-primary" >
     <div class="container">
-      <a href="{{route('landing')}}" class="navbar-brand navbar-brand--lottie" style="width: 250px !important; margin-right: 50px">
-        <img src="{{asset('landing/assets/img/logo.png')}}" alt="" style="width: 250px !important">
+      <a href="{{route('landing')}}" class="navbar-brand navbar-brand--lottie" style="width: 240px !important; margin-right: 50px">
+        <img src="{{asset('landing/assets/img/logo.png')}}" alt="" style="width: 240px !important">
       </a>
       <button class="navbar-toggler hamburger hamburger--collapse" type="button" data-toggle="collapse"
               data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false"
-
               aria-label="Toggle navigation">
         <div class="hamburger-box">
           <div class="hamburger-inner"></div>
@@ -19,8 +18,7 @@
             <li id="menu-item-6906"
                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-6906 nav-item">
               <a title="Platform" href="javascript:void(0);" data-toggle="dropdown"
-                 aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link"
-                 id="menu-item-dropdown-6906"><span style="font-weight: bolder; font-size: 20px">Platform</span>
+                 aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link"><span style="font-weight: bolder">Platform</span>
                 <svg width="9" height="5" viewBox="0 0 9 5" fill="none"
                      xmlns="http://www.w3.org/2000/svg">
                   <path d="M0.799247 3.8941L4.19336 0.499984L7.58747 3.8941" stroke="#161453"
@@ -71,7 +69,7 @@
                 class="view-last-hidden-on-mobile menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-42 nav-item">
               <a title="Company" href="javascript:void(0);" data-toggle="dropdown"
                  aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link"
-                 id="menu-item-dropdown-42"><span style="font-weight: bolder; font-size: 20px">Company</span>
+                 id="menu-item-dropdown-42"><span style="font-weight: bolder;">Company</span>
                 <svg width="9" height="5" viewBox="0 0 9 5" fill="none"
                      xmlns="http://www.w3.org/2000/svg">
                   <path d="M0.799247 3.8941L4.19336 0.499984L7.58747 3.8941" stroke="#161453"

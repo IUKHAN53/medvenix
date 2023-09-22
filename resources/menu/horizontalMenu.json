@@ -1,22 +1,22 @@
 {
   "menu": [
     {
-      "url": "/",
-      "name": "Home",
+      "url": "home",
       "icon": "menu-icon tf-icons ti ti-smart-home",
-      "slug": "pages-home"
+      "name": "Home",
+      "slug": "home"
     },
     {
       "url": "users",
       "icon": "menu-icon tf-icons ti ti-user",
       "name": "Manage Users",
-      "slug": "user-management"
+      "slug": "users"
     },
     {
       "url": "teams",
       "icon": "menu-icon tf-icons ti ti-id-badge",
       "name": "Manage Team Members",
-      "slug": "team-management"
+      "slug": "manage-teams"
     },
     {
       "url": "site-settings",
