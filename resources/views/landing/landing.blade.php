@@ -260,7 +260,7 @@
             </div>
             <div class="d-flex w-100 position-relative d-none d-sm-block">
               <video
-                src="{{$settings->home_video ?? asset('landing/assets/videos/landing_hero_video.mp4')}}"
+                src="{{$settings->home_video ?? asset('landing/assets/videos/landing_video.mp4')}}"
                 alt=""
                 class="img-fluid shadow"
                 style="z-index: 2;  width: 100%;border-radius: 30px;opacity: 0.9"
