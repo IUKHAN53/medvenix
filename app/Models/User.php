@@ -47,4 +47,13 @@ class User extends Authenticatable
     2 => 'Doctor',
     3 => 'Admin',
   ];
+
+  public function getProfilePhotoUrlAttribute()
+  {
+    return TeamMember::query()
+      ->first()
+      ->image;
+  }
+
+
 }

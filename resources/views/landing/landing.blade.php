@@ -1,7 +1,6 @@
 @extends('layouts.layoutLanding')
 @section('styles')
   <link rel="stylesheet" href="{{asset('landing/assets/css/home.css')}}">
-  <link rel="stylesheet" href="{{asset('landing/assets/css/custom-home.css')}}">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css'>
   <style>

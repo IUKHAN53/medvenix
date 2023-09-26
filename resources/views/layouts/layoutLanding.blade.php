@@ -19,9 +19,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
   @yield('styles')
 </head>
-<body
-  class="home page-template-default page page-id-6395 wp-custom-logo wp-embed-responsive hyro-page_homepage group-blog elementor-default elementor-kit-5 elementor-page elementor-page-6395 e--ua-blink e--ua-edge e--ua-webkit"
-  data-elementor-device-mode="widescreen">
+<body>
 <div class="site" id="page">
   @include('layouts.landing.nav')
   @yield('content')
